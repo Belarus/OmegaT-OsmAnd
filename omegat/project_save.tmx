@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.0" segtype="paragraph" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>%1$d of %2$d item(s) successfully activated.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084355Z">
+        <seg>%1$d з %2$d рэчаў пасьпяхова актываваныя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%1$d of %2$d item(s) successfully deactivated.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084325Z">
+        <seg>%1$d з %2$d рэчаў пасьпяхова дэактываваныя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%1$d of %2$d item(s) successfully deleted.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084339Z">
+        <seg>%1$d з %2$d рэчаў пасьпяхова выдаленыя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%1$d of %2$d item(s) successfully uploaded.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082051Z">
+        <seg>%1$d з %2$d рэчаў пасьпяхова заладаваныя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Map appearance</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072828Z">
+        <seg>- Выгляд мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Map configuration</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072753Z">
+        <seg>- Налады мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Navigation</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072902Z">
+        <seg>- Навігацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Tracking</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072844Z">
+        <seg>- Трэкінг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessibility</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064746Z">
+        <seg>Даступнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessibility extensions</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061456Z">
+        <seg>Пашырэньні даступнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessibility extensions for old Android versions</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061447Z">
+        <seg>Пашырэньні даступнасьці для старых вэрсій Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessibility mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061505Z">
+        <seg>Рэжым даступнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessibility related preferences</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072435Z">
+        <seg>Налады даступнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>According to the global system setting</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061611Z">
+        <seg>Паводле глябальных наладаў сыстэмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accuracy</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063811Z">
+        <seg>Дакладнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Activate</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084557Z">
+        <seg>Актываваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Address…</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081453Z">
+        <seg>Адрас…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Africa</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071455Z">
+        <seg>Афрыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Altitude</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063816Z">
+        <seg>Вышыня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Always use offline POI editing</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065109Z">
+        <seg>Заўсёды ўжываць пазасеткавае рэдагаваньне POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Asia</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071458Z">
+        <seg>Азія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Asynchronous OSM POI Editing:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065508Z">
+        <seg>Асынхроннае рэдагаваньне OSM POI:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-center map view</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074401Z">
+        <seg>Аўтаматычнае цэнтраваньне мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-center map view in use.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074617Z">
+        <seg>Аўтаматычнае цэнтраваньне падчас карыстаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-center map view only while navigating.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074535Z">
+        <seg>Аўтаматычнае цэнтраваньне толькі падчас навігацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-center nav only</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074558Z">
+        <seg>Аўтаматычнае цэнтраваньне толькі падчас навігацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063345Z">
+        <seg>Ззаду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back To Menu</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061619Z">
+        <seg>Назад да мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back left</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063443Z">
+        <seg>Ззаду зьлева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back right</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063306Z">
+        <seg>Ззаду справа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back to location</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061357Z">
+        <seg>Назад да месцазнаходжаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073536Z">
+        <seg>Налады фону</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Base world map (covering the whole world at small zooms) is missing. Please consider downloading World_basemap_x.obf for a complete environment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T083746Z">
+        <seg>Няма асноўнай мапы сьвету (якая пакрывае увесь сьвет на малых маштабах). Каб мець поўнае асяродзьдзе трэба зладаваць World_basemap_x.obf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082759Z">
+        <seg>Катэгорыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Central America</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071413Z">
+        <seg>Цэнтральная Амэрыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change map zooming by horizontal trackball moves</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072409Z">
+        <seg>Зьмяняць маштаб гарызантальнымі рухамі трэкболу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes in 0.7.0 : \n\t- Offline wikipedia data with articles \n\t- Updated maps \n\t- Other small features</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071651Z">
+        <seg>Зьмены ў 0.7.0 : \n\t- Пазасеткавыя зьвесткі вікіпэдыі з артыкуламі \n\t- Абноўленыя мапы \n\t- Іншыя невялікія пашырэньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose style to express relative directions while moving</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064137Z">
+        <seg>Абярыце стыль як паказваць адносныя напрамкі падчас руху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>City</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075543Z">
+        <seg>Горад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clockwise (12 sectors)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072356Z">
+        <seg>Па стрэлцы гадзіньніка (12 сэктараў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configure global settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073103Z">
+        <seg>Вызначыць агульныя налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configure map display</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072840Z">
+        <seg>Налады маляваньня мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configure maps and map sources</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072814Z">
+        <seg>Налады мапаў і крыніц мапаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current position…</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081532Z">
+        <seg>Бягучае месца…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Day/Night Mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073854Z">
+        <seg>Рэжым дзень/ноч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deactivate</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084602Z">
+        <seg>Дэактываваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084539Z">
+        <seg>Выдаліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete %1$s?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081820Z">
+        <seg>Выдаліць %1$s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete POI modification</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065446Z">
+        <seg>Выдаліць зьмены POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T060905Z">
+        <seg>Апісаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direction style</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064024Z">
+        <seg>Стыль напрамку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display ruler</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061150Z">
+        <seg>Паказваць лінейкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display ruler on the map</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061142Z">
+        <seg>Паказваць лінейкі на мапе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download and manage offline maps and other data such as GPX tracks</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073023Z">
+        <seg>Зладаваць і кіраваць пазасеткавымі мапамі і іншымі зьвесткамі накшталт трэкаў GPX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download, (de-)activate, or delete offline data. \nCurrent data on device (%1$s free):</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081429Z">
+        <seg>Зладаваць, (дэ-)актываваць, ці выдаліць пазасеткавыя зьвесткі. \nБягучыя зьвесткі на прыладзе (%1$s вольна):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download…</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084613Z">
+        <seg>Зладаваць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edition</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084254Z">
+        <seg>Выданьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Europe</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071426Z">
+        <seg>Эўропа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Europe - France</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071432Z">
+        <seg>Эўропа - Францыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Europe - Germany</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071441Z">
+        <seg>Эўропа - Германія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Europe/Asia - Russia</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071452Z">
+        <seg>Эўразія - Расея</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Favorite point(s) deleted successfully.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082649Z">
+        <seg>Упадабаныя кропкі пасьпяхова выдаленыя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Favorites…</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081508Z">
+        <seg>Упадабаныя…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File can not be renamed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075645Z">
+        <seg>Файл ня можа быць пераназваны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File name :</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081836Z">
+        <seg>Назва файлу :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File with previously exported favorites already exists. Do you want to replace it?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072655Z">
+        <seg>Файл з экспартаванымі ўпадабанымі ўжо існуе. Ці хочаце замяніць яго ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File with same name already exists.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081855Z">
+        <seg>Файл з такой самай назвай ужо існуе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File with that name already exists.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075658Z">
+        <seg>Файл з такой назвай ужо існуе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fixed</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081526Z">
+        <seg>Фіксаваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fluorescent overlays</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064906Z">
+        <seg>Флюарэсцэнтныя пласты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Free space now {2} MB! Download {0} file(s) ({1} MB)?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074038Z">
+        <seg>Вольнага месца зараз {2} MB! Зладаваць {0} файлы ({1} MB)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Free version</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071338Z">
+        <seg>Свабодная вэрсія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Friends</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082746Z">
+        <seg>Сябры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Front</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063240Z">
+        <seg>Наперадзе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Front left</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063453Z">
+        <seg>Наперадзе зьлева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Front right</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063246Z">
+        <seg>Наперадзе справа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GPX route</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075704Z">
+        <seg>GPX шлях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General Settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073041Z">
+        <seg>Агульныя налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global Settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072918Z">
+        <seg>Агульныя налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global app settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073112Z">
+        <seg>Агульныя налады праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hamlet</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075532Z">
+        <seg>Паселішча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061400Z">
+        <seg>Дапамога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082741Z">
+        <seg>Дом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I am here</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064416Z">
+        <seg>Я тут</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Improving OSM Data</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073920Z">
+        <seg>Паляпшэньне зьвестак OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072218Z">
+        <seg>Інфармацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initializing native library…</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074345Z">
+        <seg>Ініцыалізацыя родных бібліятэк…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last map view</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081541Z">
+        <seg>Апошні выгляд мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063446Z">
+        <seg>Зьлева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Live Tracking interval</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065928Z">
+        <seg>Інтэрвал жывога трэкінгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Live Tracking web address</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T070923Z">
+        <seg>Вэб-адрас жывога трэкінгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local data to search POI is not present.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T080820Z">
+        <seg>Лякальных зьвестак для пошуку POI няма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local file to maintain POI changes not found and could not be created.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T080944Z">
+        <seg>Лякальны файл для падтрымкі зьменаў у POI ня знойдзены і ня можа быць створаны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Locally saved OSM POIs</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065524Z">
+        <seg>Захаваныя лакальна OSM POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map Orientation</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073834Z">
+        <seg>Арыентацыя мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map source settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075332Z">
+        <seg>Налады крыніцы мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082755Z">
+        <seg>Назва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Native library is not supported on this device.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074312Z">
+        <seg>Родныя бібліятэкі не падтрымліваюцца гэтай прыладай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Natural map scrolling</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064413Z">
+        <seg>Натуральнае пасоўваньне мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Needed for openstreetmap.org submissions</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073350Z">
+        <seg>Патрэбна для прадстаўленьня ў openstreetmap.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Never</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074450Z">
+        <seg>Ніколі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No info</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063825Z">
+        <seg>Няма зьвестак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No items to %1$s</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084407Z">
+        <seg>Няма рэчаў да %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No, thanks</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082803Z">
+        <seg>Не, дзякуй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>North America</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071358Z">
+        <seg>Паўночная Амэрыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>North America - United States</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071406Z">
+        <seg>Паўночная Амэрыка - Злучаныя Штаты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not enough process memory to display selected area</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064813Z">
+        <seg>Недастаткова памяці каб паказаць абраную прастору</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oceania</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071502Z">
+        <seg>Акеанія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061540Z">
+        <seg>Выкл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Offline Data</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072931Z">
+        <seg>Пазасеткавыя зьвесткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Offline Data Manager</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084507Z">
+        <seg>Пазасеткавы кіраўнік зьвестак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Offline POI editing</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065046Z">
+        <seg>Пазасеткавае рэдагаваньне POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072313Z">
+        <seg>Укл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On board ('offline') data is missing on SD card. Please consider to download it in order to use maps offline.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T083907Z">
+        <seg>Няма пазасеткавых зьвестак на картке SD. Каб карыстацца мапай па-за сеткай, трэба іх зладаваць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Online Live Tracking</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065850Z">
+        <seg>Сеціўны жывы трэкінг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Others</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082752Z">
+        <seg>Іншае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>POI changes inside application do not affect downloaded map files, changes are saved to local file instead.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072457Z">
+        <seg>Зьмены POI у праграме не ўплываюць на зладаваныя файлы мапы, зьмены захоўваюцца толькі ў лякальныя файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>POI labels</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075608Z">
+        <seg>Цэтлікі POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082749Z">
+        <seg>Месцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enable 'Log track to GPX' Tracking settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071043Z">
+        <seg>Калі ласка, дазвольце 'Лагаваньне трэкаў у GPX' у наладах трэкінгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please specify OSM user name and password to upload GPX files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061003Z">
+        <seg>Калі ласка, пазначце імя й пароль карыстальніка OSM каб заладоўваць файлы GPX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position (Found)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081450Z">
+        <seg>Месца (знойдзенае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Profile Specific Settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071912Z">
+        <seg>Налады профіля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084609Z">
+        <seg>Абнавіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081243Z">
+        <seg>Пераназваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063249Z">
+        <seg>Справа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Route successfully saved as '%1$s'.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081738Z">
+        <seg>Шлях пасьпяхова захаваны як '%1$s'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081858Z">
+        <seg>Захаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save directions</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081903Z">
+        <seg>Захаваць напрамкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save route as GPX track</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081700Z">
+        <seg>Захаваць шлях як GPX трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scroll map by gestures on the touchscreen</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064356Z">
+        <seg>Пасоўваць мапу рухамі на тачскрыне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search by name</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T080825Z">
+        <seg>Пошук па назьве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search near :</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081557Z">
+        <seg>Шукаць блізу :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search near here</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081624Z">
+        <seg>Шукаць навокал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching position…</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081436Z">
+        <seg>Пошук месца…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081333Z">
+        <seg>Пазначыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Destination</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074105Z">
+        <seg>Абраць прызначэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a user profile. Each profile contains specific settings, which can be customized below.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072726Z">
+        <seg>Абярыце профіль карыстальніка. Кожны профіль утрымлівае спэцыфічныя налады, якія можна дапасаваць ніжэй.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send GPX files to OSM?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T060811Z">
+        <seg>Дасылаць GPX файлы ў OSM?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send to OSM</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082057Z">
+        <seg>Даслаць у OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send tracking to a specified web service</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065740Z">
+        <seg>Дасылаць трэкінг ў пазначаны вэб-сэрвіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server contains map files not compatible with your current version of the application. To download and use them, please upgrade the application to newer version.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081240Z">
+        <seg>Сэрвер утрымлівае файлы мапы якія не сумяшчальныя з вашай вэрсіяй праграмы. Каб зладаваць і карыстацца імі трэба абнавіць праграму да новай вэрсіі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several POI categories found matching the query :</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075827Z">
+        <seg>Некалькі катэгорый POI знойдзена па запыту:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show POI description</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071349Z">
+        <seg>Паказваць апісаньні POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show POI on map</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065425Z">
+        <seg>Паказваць POI на мапе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show altitude</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074131Z">
+        <seg>Паказваць вышыню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and manage OSM POIs noted in local database</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065608Z">
+        <seg>Паказаць і кіраваць OSM POI пазначаныя ў лакальнай базе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show current altitude information on map</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074123Z">
+        <seg>Паказваць бягучую вышыню на мапе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show current track</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071105Z">
+        <seg>Паказаць бягучы трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show details</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072241Z">
+        <seg>Паказаць дэталі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show more map detail</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082112Z">
+        <seg>Паказаць больш дэталей мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show on map</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081248Z">
+        <seg>Паказаць на мапе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show some vector map detail (roads etc.) at lower zooms already</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082622Z">
+        <seg>Паказаць некаторыя дэталі вэктарнай мапы (дарогі й іншыя) на меншым маштабе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sidewise (8 sectors)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063853Z">
+        <seg>Бокам (8 сэктараў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>South America</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071423Z">
+        <seg>Паўднёвая Амэрыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify Live Tracking interval</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072517Z">
+        <seg>Вызначыць інтэрвал жывога трэкінгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify navigation options</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072911Z">
+        <seg>Вызначыць налады навігацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify the web address with parameter syntax : lat={0}, lon={1}, timestamp={2}, hdop={3}, altitude={4}, speed={5}</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T070932Z">
+        <seg>Вызначыць вэб-адрас з парамэтрамі:: шырата={0}, даўгата={1}, час={2}, hdop={3}, вышыня={4}, хуткасьць={5}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify tracking settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072856Z">
+        <seg>Вызначыць налады трэкінгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start animation</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075631Z">
+        <seg>Пачаць анімацыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start autoannouncing</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064203Z">
+        <seg>Пачаць аўтаматычныя анонсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stop animation</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075625Z">
+        <seg>Спыніць анімацыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stop autoannouncing</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064210Z">
+        <seg>Спыніць аўтаматычныя анонсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtracks : %1$d\nTotal points : %2$d\nWay points : %3$d\nTotal distance : %4$s\nStart time : %5$tF, %5$tR\nEnd time : %6$tF, %6$tR</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084249Z">
+        <seg>Часткі трэкаў : %1$d\nАгулам кропак : %2$d\nКропак шляху : %3$d\nАгульная дыстанцыя : %4$s\nЧас пачатку : %5$tF, %5$tR\nЧас заканчэньня : %6$tF, %6$tR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Suburb</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075401Z">
+        <seg>Прыгарад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061007Z">
+        <seg>Падтрымка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support new features</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061103Z">
+        <seg>Падтрымка новых уласьцівасьцяў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T060847Z">
+        <seg>Цэтлікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The POI data file '%1$s' is redundant and can be deleted.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T080857Z">
+        <seg>Файл POI '%1$s' залішні і можа быць выдалены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is not enough free space to download %1$s MB (free: %2$s).</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073957Z">
+        <seg>Няма вольнага месца каб зладаваць %1$s MB (вольна: %2$s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This free OsmAnd version is limited to %1$s downloads %2$s and does not support offline wikipedia articles.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071656Z">
+        <seg>Гэта свабодная вэрсія OsmAnd абмежаваная %1$ ладаваньнямі %2$s і не падтрымлівае пазасеткавыя артыкулы вікіпэдыі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tile data: %1$s \nMinimum zoom : %2$d\nMaximum zoom : %3$d\nDownloadable : %4$s \nZooms downloaded : %5$s</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084733Z">
+        <seg>Зьвесткі фрагмэнту: %1$s \nМінімальны маштаб : %2$d\nМаксымальны маштаб : %3$d\nDownloadable : %4$s \nZooms downloaded : %5$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Time until map view synchronizes with current position</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074446Z">
+        <seg>Час каб мапа сынхранізавалася з бягучым месцам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Town</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075539Z">
+        <seg>Мястэчка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transparent theme</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074201Z">
+        <seg>Празрыстая тэма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turns on the accessibility features</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072309Z">
+        <seg>Уключыць уласьцівасьці даступнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undefined</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081513Z">
+        <seg>Нявызначаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade Osmand+</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081117Z">
+        <seg>Мадэрнізаваць да Osmand+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload GPX files to OSM community. They will be used to improve maps.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T081955Z">
+        <seg>Заладаваць файлы GPX у суполку OSM. Яны будуць выкарыстаныя для паляпшэньня мапы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload all POI</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065416Z">
+        <seg>Заладаваць усе POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload modification to OSM</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065437Z">
+        <seg>Заладаваць зьмены ў OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploading POI…</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065352Z">
+        <seg>Заладоўваецца POI…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use fluorescent colors to display tracks and routes</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075737Z">
+        <seg>Ужываць флюарэсцэнтныя колеры для трэкаў і шляхоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use object names</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064936Z">
+        <seg>Ужываць назвы аб'ектаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use short object names in touch exploration mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T064930Z">
+        <seg>Ужываць кароткія назвы аб'ектаў у сэнсарным рэжыме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use to run OsmAnd while screen is off</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073809Z">
+        <seg>Ужываць каб OsmAnd працавала падчас выключанага экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use trackball for zoom control</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072427Z">
+        <seg>Карыстацца трэкболам для зьмены маштабу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use transparent map controls</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T074155Z">
+        <seg>Ужываць празрыстыя элементы кіраваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Profile</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071919Z">
+        <seg>Профіль карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User defined</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071721Z">
+        <seg>Вызначанае карыстальнікам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vector map settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075326Z">
+        <seg>Налады вэктарнай мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vector renderer specific options</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075252Z">
+        <seg>Налады маляваньня вэктарамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Village</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T075419Z">
+        <seg>Вёска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visibility</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T060843Z">
+        <seg>Бачнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice packs (TTS)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071602Z">
+        <seg>Галасавыя пакункі (TTS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice packs (recorded)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071554Z">
+        <seg>Галасавыя пакункі (запісаныя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wikipedia (offline)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071706Z">
+        <seg>Вікіпэдыя (пазасеткавая)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Worldwide Wikipedia</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071701Z">
+        <seg>Сусьветная Вікіпэдыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Worldwide and topic maps</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T071523Z">
+        <seg>Сусьветныя і тэматычныя мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are about to %1$s %2$s item(s). Continue?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084441Z">
+        <seg>Вы каля %1$s %2$s рэчаў. Працягнуць ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are going to delete %1$d favorite(s) and %2$d favorite group(s). Are you sure?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T082734Z">
+        <seg>Вы зьбіраецеся выдаліць %1$d упадабаныя %2$d групы. Вы ўпэўненыя ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your OSM password</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073223Z">
+        <seg>Ваш пароль OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your OSM user name</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T073126Z">
+        <seg>Вашае імя карыстальніка OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom in</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061640Z">
+        <seg>Наблізіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom is</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T072353Z">
+        <seg>Маштаб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom out</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T061636Z">
+        <seg>Аддаліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\nAverage altitude : %1$.0f m\nMinimum altitude : %2$.0f m\nMaximum altitude : %3$.0f m\nAscents : %4$.0f m\nDescents : %5$.0f m</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T084135Z">
+        <seg>\nСярэдняя вышыня : %1$.0f m\nМінімальная вышыня : %2$.0f m\nМаксымальная вышыня : %3$.0f m\nПад'ём : %4$.0f m\nСпуск : %5$.0f m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\nAverage speed : %1$s \nMaximum speed : %2$s</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T083946Z">
+        <seg>\nСярэдняя хуткасьць : %1$s \nМаксымальная хуткасьць : %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\n\nPress and hold for options</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T083925Z">
+        <seg>\n\nНаціснуць і трымаць для наладаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>east</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T062851Z">
+        <seg>усход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>east-north-east</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T062701Z">
+        <seg>усходне-паўночны усход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>east-south-east</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T062905Z">
+        <seg>усходне-паўднёвы ўсход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>north</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T062956Z">
+        <seg>поўнач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>north-east</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T062538Z">
+        <seg>паўночны ўсход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>north-north-east</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T062151Z">
+        <seg>паўночны-паўночны ўсход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>north-north-west</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063201Z">
+        <seg>паўночны-паўночны захад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>north-west</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063126Z">
+        <seg>паўночны захад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>o'clock</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063458Z">
+        <seg>гадзін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>south</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063024Z">
+        <seg>поўдзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>south-east</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T062918Z">
+        <seg>паўднёвы ўсход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>south-south-east</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T062945Z">
+        <seg>паўднёвы-паўднёвы ўсход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>south-south-west</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063040Z">
+        <seg>паўднёвы-паўднёвы захад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>south-west</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063046Z">
+        <seg>паўднёвы захад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>towards</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063518Z">
+        <seg>да</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>west</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063105Z">
+        <seg>захад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>west-north-west</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063143Z">
+        <seg>паўночны-паўночны захад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>west-south-west</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T063100Z">
+        <seg>заходне-паўднёвы захад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} POI were uploaded</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20120426T065358Z">
+        <seg>{0} POI заладавана</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
