@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download regions</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130621T081509Z">
+        <seg>Зладаваць рэгіёны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download, (de-)activate, or delete offline data. \nCurrent data on device (%1$s free):</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081429Z">
@@ -1074,6 +1082,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T064413Z">
         <seg>Натуральнае пасоўваньне мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130621T081612Z">
+        <seg>Навігацыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,6 +1858,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T060847Z">
         <seg>Цэтлікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thank you for using OsmAnd. For many features of this application you need some regional offline data which you can download via 'Settings' -&gt; 'Data Management'. Afterwards you will be able to view maps, locate addresses, look up POIs, and find public transportation.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130621T081447Z">
+        <seg>Дзякуй за карыстаньне OsmAnd. Каб карыстацца ўсімі магчымасьцямі праграмы, вам патрэбныя некаторыя пазасеціўныя зьвесткі для вашага рэгіёну. Іх можна зладаваць праз 'Налады' -&gt; 'Кіраваньне зьвесткамі'. Пасьля гэтага вы зможаце глядзець мапу, шукаць адрасы, бачыць цікавосткі і грамадзкі транспарт. </seg>
       </tuv>
     </tu>
     <tu>
