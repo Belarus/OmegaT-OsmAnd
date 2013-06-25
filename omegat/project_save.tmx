@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click here to download or update offline data. \nClick any existing item to see more details, press and hold to deactivate or delete. Current data on device (%1$s free):</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T121915Z" creationid="alex" creationdate="20130625T121915Z">
+        <seg>Націсьніце тут каб зладаваць ці абнавіць пазасеціўныя зьвесткі. \nПстрыкніце на любы існуючы складнік каб бачыць падрабязнасьці, альбо націсьніце і трымайце каб дэактываваць ці выдаліць. Дзейныя зьвесткі на прыладзе (вольна %1$s):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clockwise (12 sectors)</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T072356Z">
