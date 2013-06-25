@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are you sure you want to stop the navigation?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115724Z" creationid="alex" creationdate="20130625T115724Z">
+        <seg>Сапраўды спыніць навігацыю ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Asia</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071458Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T104212Z">
         <seg>Навігацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dismiss route</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115659Z" creationid="alex" creationdate="20130625T115659Z">
+        <seg>Адкінуць шлях</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Route details</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115503Z" creationid="alex" creationdate="20130625T115503Z">
+        <seg>Падрабязнасьці шляху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Route successfully saved as '%1$s'.</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081738Z">
@@ -1854,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stop navigation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115519Z" creationid="alex" creationdate="20130625T115519Z">
+        <seg>Спыніць навігацыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Street</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T120836Z">
@@ -2154,6 +2186,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071554Z">
         <seg>Галасавыя пакункі (запісаныя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Waypoints</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115553Z" creationid="alex" creationdate="20130625T115553Z">
+        <seg>Кропкі шляху</seg>
       </tuv>
     </tu>
     <tu>
