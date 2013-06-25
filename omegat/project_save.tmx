@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Camera is not available</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124251Z" creationid="alex" creationdate="20130625T124251Z">
+        <seg>Няма камэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115017Z">
@@ -1662,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prefer motorways</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124232Z" creationid="alex" creationdate="20130625T124232Z">
+        <seg>Аўтамагістралі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prefer…</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T124033Z" creationid="alex" creationdate="20130625T124033Z">
@@ -2022,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show alarms…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124330Z" creationid="alex" creationdate="20130625T124330Z">
+        <seg>Папярэджваць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show altitude</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T074131Z">
@@ -2098,6 +2122,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T082622Z">
         <seg>Паказаць некаторыя дэталі вэктарнай мапы (дарогі й іншыя) на меншым маштабе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show speed cameras</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124416Z" creationid="alex" creationdate="20130625T124416Z">
+        <seg>Камэры хуткасьці</seg>
       </tuv>
     </tu>
     <tu>
