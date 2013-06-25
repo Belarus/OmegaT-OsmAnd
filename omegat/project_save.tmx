@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kilometers/meters</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123021Z" creationid="alex" creationdate="20130625T123021Z">
+        <seg>Кілямэтры/мэтры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last map view</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081541Z">
@@ -1098,6 +1106,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063446Z">
         <seg>Зьлева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-hand driving</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123134Z" creationid="alex" creationdate="20130625T123134Z">
+        <seg>Леваручны рух</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1218,22 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T113938Z">
         <seg>Крыніца мапы…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Miles/feet</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122947Z" creationid="alex" creationdate="20130625T122947Z">
+        <seg>Мілі/футы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Miles/yards</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122956Z" creationid="alex" creationdate="20130625T122956Z">
+        <seg>Мілі/ярды</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select for countries with left-hand traffic</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123207Z" creationid="alex" creationdate="20130625T123207Z">
+        <seg>Абраць для краін з леваручным рухам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select map screen alignment</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122515Z" creationid="alex" creationdate="20130625T122515Z">
@@ -2278,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unit of measure</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122934Z" creationid="alex" creationdate="20130625T122934Z">
+        <seg>Адзінкі вымярэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Upgrade Osmand+</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081117Z">
@@ -2638,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ft</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123028Z" creationid="alex" creationdate="20130625T123028Z">
+        <seg>фт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>km</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T120229Z" creationid="alex" creationdate="20130625T120229Z">
@@ -2658,6 +2714,22 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T120226Z" creationid="alex" creationdate="20130625T120226Z">
         <seg>м</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mi</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123054Z" creationid="alex" creationdate="20130625T123048Z">
+        <seg>мі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mph</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123052Z" creationid="alex" creationdate="20130625T123038Z">
+        <seg>мі/г</seg>
       </tuv>
     </tu>
     <tu>
@@ -2778,6 +2850,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063100Z">
         <seg>заходне-паўднёвы захад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yd</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123025Z" creationid="alex" creationdate="20130625T123025Z">
+        <seg>яр</seg>
       </tuv>
     </tu>
     <tu>
