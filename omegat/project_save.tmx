@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New route calculated, distance</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115300Z" creationid="alex" creationdate="20130625T115300Z">
+        <seg>Новы шлях разьлічаны, адлегласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next turn</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115648Z">
@@ -1738,6 +1746,22 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063853Z">
         <seg>Бокам (8 сэктараў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sound is off</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115342Z" creationid="alex" creationdate="20130625T115342Z">
+        <seg>Гук выключаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sound is on</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115339Z" creationid="alex" creationdate="20130625T115339Z">
+        <seg>Гук уключаны</seg>
       </tuv>
     </tu>
     <tu>
