@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GPX track…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115946Z" creationid="alex" creationdate="20130625T115946Z">
+        <seg>Трэк GPX…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>General</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115812Z">
@@ -1222,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120015Z" creationid="alex" creationdate="20130625T120015Z">
+        <seg>Добра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Oceania</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071502Z">
@@ -1310,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>POI (Point of interest) search</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115839Z" creationid="alex" creationdate="20130625T115839Z">
+        <seg>Пошук цікавосткаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>POI changes inside application do not affect downloaded map files, changes are saved to local file instead.</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T072457Z">
@@ -1330,6 +1354,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115208Z">
         <seg>Цікавостка выдаленая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>POI…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115814Z" creationid="alex" creationdate="20130625T115814Z">
+        <seg>Цікавосткі…</seg>
       </tuv>
     </tu>
     <tu>
