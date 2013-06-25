@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Avoid…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124053Z" creationid="alex" creationdate="20130625T124053Z">
+        <seg>Пазьбягаць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063345Z">
@@ -782,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fastest route</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123957Z" creationid="alex" creationdate="20130625T123957Z">
+        <seg>Найхутчэйшы шлях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Favorite point(s) deleted successfully.</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T082649Z">
@@ -1286,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Navigation service</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123856Z" creationid="alex" creationdate="20130625T123856Z">
+        <seg>Сэрвіс навігацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Needed for openstreetmap.org submissions</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T073350Z">
@@ -1634,6 +1658,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T121840Z">
         <seg>Месца пакуль ня вызначанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prefer…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124033Z" creationid="alex" creationdate="20130625T124033Z">
+        <seg>Аддаваць перавагу…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2058,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T072241Z">
         <seg>Паказаць дэталі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show lanes</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124125Z" creationid="alex" creationdate="20130625T124125Z">
+        <seg>Паказваць палосы</seg>
       </tuv>
     </tu>
     <tu>
