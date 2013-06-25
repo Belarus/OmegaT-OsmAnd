@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calculate possibly non-optimal route over long distances</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T121321Z" creationid="alex" creationdate="20130625T121321Z">
+        <seg>Разьлічыць прыблізны шлях на вялікія адлегласьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115017Z">
@@ -480,8 +488,8 @@
       <tuv lang="en">
         <seg>Current position…</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20120426T081532Z">
-        <seg>Бягучае месца…</seg>
+      <tuv lang="be" changeid="alex" changedate="20130625T121114Z">
+        <seg>Гэтае месца…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T121410Z">
         <seg>Сеціўныя мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only show</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T121339Z" creationid="alex" creationdate="20130625T121339Z">
+        <seg>Тольки паказаць</seg>
       </tuv>
     </tu>
     <tu>
