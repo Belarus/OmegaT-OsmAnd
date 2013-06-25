@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose channel to play voice guidance (system-dependent)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123713Z" creationid="alex" creationdate="20130625T123713Z">
+        <seg>Абярыце канал прайграваньня галасавых каманд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose city</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T120927Z">
@@ -1222,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Media/music audio</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123824Z" creationid="alex" creationdate="20130625T123824Z">
+        <seg>Мэдыя/музычны канал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Miles/feet</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122947Z" creationid="alex" creationdate="20130625T122947Z">
@@ -1370,6 +1386,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T064813Z">
         <seg>Недастаткова памяці каб паказаць абраную прастору</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notification audio</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123805Z" creationid="alex" creationdate="20130625T123752Z">
+        <seg>Канал апавяшчэньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -2398,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Kalman filter to avoid compass aberrations</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123535Z" creationid="alex" creationdate="20130625T123535Z">
+        <seg>Выкарыстоўваць фільтар Калман каб прадухіліць абэрацыю компасу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use fluorescent colors to display tracks and routes</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T075737Z">
@@ -2502,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Voice call audio</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123801Z" creationid="alex" creationdate="20130625T123740Z">
+        <seg>Галасавы канал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Voice data (TTS)</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122009Z" creationid="alex" creationdate="20130625T122009Z">
@@ -2514,6 +2554,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122023Z" creationid="alex" creationdate="20130625T122023Z">
         <seg>Галасавыя зьвесткі (запісаныя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice guidance output</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123639Z" creationid="alex" creationdate="20130625T123639Z">
+        <seg>Дзе казаць кіраваньне голасам</seg>
       </tuv>
     </tu>
     <tu>
