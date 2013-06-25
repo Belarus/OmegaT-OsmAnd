@@ -1686,6 +1686,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run the application in safe mode (using slower Android instead of native code).</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123421Z" creationid="alex" creationdate="20130625T123421Z">
+        <seg>Працаваць у бясьпечным рэжыме (трохі павольней але без родных бібліятэк).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Safe mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123233Z" creationid="alex" creationdate="20130625T123233Z">
+        <seg>Бясьпечны рэжым</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081858Z">
@@ -2370,6 +2386,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122739Z" creationid="alex" creationdate="20130625T122739Z">
         <seg>Ангельскія назвы на мапе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Kalman filter</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T123507Z" creationid="alex" creationdate="20130625T123507Z">
+        <seg>Выкарыстоўваць фільтар Калман</seg>
       </tuv>
     </tu>
     <tu>
