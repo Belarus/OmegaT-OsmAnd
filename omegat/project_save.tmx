@@ -158,10 +158,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124640Z" creationid="alex" creationdate="20130625T124640Z">
+        <seg>Дадатковыя налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Address…</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081453Z">
         <seg>Адрас…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Advanced settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124541Z" creationid="alex" creationdate="20130625T124541Z">
+        <seg>Пашыраныя налады</seg>
       </tuv>
     </tu>
     <tu>
@@ -1438,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OSM editing</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124613Z" creationid="alex" creationdate="20130625T124613Z">
+        <seg>Рэдагаваньне OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Oceania</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071502Z">
@@ -2130,6 +2154,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T124416Z" creationid="alex" creationdate="20130625T124416Z">
         <seg>Камэры хуткасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show traffic warnings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T124449Z" creationid="alex" creationdate="20130625T124449Z">
+        <seg>Заўвагі руху</seg>
       </tuv>
     </tu>
     <tu>
