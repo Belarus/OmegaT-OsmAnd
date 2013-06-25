@@ -1392,8 +1392,8 @@
       <tuv lang="en">
         <seg>Only show</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20130625T121339Z" creationid="alex" creationdate="20130625T121339Z">
-        <seg>Тольки паказаць</seg>
+      <tuv lang="be" changeid="alex" changedate="20130625T121343Z" creationid="alex" creationdate="20130625T121339Z">
+        <seg>Толькі паказаць</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,6 +1474,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T120103Z" creationid="alex" creationdate="20130625T120103Z">
         <seg>Калі ласка, дазвольце GPS у наладах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select destination first</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T121425Z" creationid="alex" creationdate="20130625T121425Z">
+        <seg>Абярыце спачатку месца прызначэньня</seg>
       </tuv>
     </tu>
     <tu>
