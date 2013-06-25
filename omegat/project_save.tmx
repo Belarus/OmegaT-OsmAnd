@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current position</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120535Z" creationid="alex" creationdate="20130625T120535Z">
+        <seg>Гэтае месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current position…</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081532Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T060905Z">
         <seg>Апісаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deselect all</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120434Z" creationid="alex" creationdate="20130625T120416Z">
+        <seg>Прыбраць вылучэньне ўсіх</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +850,22 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T082746Z">
         <seg>Сябры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From: %1$s\nTo: %2$s</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120511Z" creationid="alex" creationdate="20130625T120511Z">
+        <seg>Ад: %1$s\nУ: %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From: %1$s\nVia: %2$s\nTo: %3$s</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120520Z" creationid="alex" creationdate="20130625T120520Z">
+        <seg>Ад: %1$s\nПраз: %2$s\nУ: %3$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select all</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120440Z" creationid="alex" creationdate="20130625T120407Z">
+        <seg>Вылучыць усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send GPX files to OSM?</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T060811Z">
@@ -1792,8 +1832,8 @@
       <tuv lang="en">
         <seg>Show current track</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20120426T071105Z">
-        <seg>Паказаць бягучы трэк</seg>
+      <tuv lang="be" changeid="alex" changedate="20130625T120559Z">
+        <seg>Паказаць дзейны трэк</seg>
       </tuv>
     </tu>
     <tu>
@@ -2072,8 +2112,8 @@
       <tuv lang="en">
         <seg>Time until map view synchronizes with current position</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20120426T074446Z">
-        <seg>Час каб мапа сынхранізавалася з бягучым месцам</seg>
+      <tuv lang="be" changeid="alex" changedate="20130625T120610Z">
+        <seg>Час каб мапа сынхранізавалася з гэтым месцам</seg>
       </tuv>
     </tu>
     <tu>
