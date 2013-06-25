@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't rotate (north is up)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122548Z" creationid="alex" creationdate="20130625T122548Z">
+        <seg>Не варочаць (поўнач уверсе)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T113323Z">
@@ -1166,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map orientation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122405Z" creationid="alex" creationdate="20130625T122405Z">
+        <seg>Арыентацыя мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Map source settings</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T075332Z">
@@ -1394,6 +1410,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T065850Z">
         <seg>Сеціўны жывы трэкінг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Online and tile maps</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122340Z" creationid="alex" creationdate="20130625T122340Z">
+        <seg>Сеціўныя і tile мапы</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,6 +1770,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T120440Z" creationid="alex" creationdate="20130625T120407Z">
         <seg>Вылучыць усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select map screen alignment</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122515Z" creationid="alex" creationdate="20130625T122515Z">
+        <seg>Абраць раўнаваньне мапы на экране</seg>
       </tuv>
     </tu>
     <tu>
