@@ -958,6 +958,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Indexing POI…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120245Z" creationid="alex" creationdate="20130625T120245Z">
+        <seg>Індэксаваньне цікавостак…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indexing address…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120301Z" creationid="alex" creationdate="20130625T120301Z">
+        <seg>Індэксаваньне адрасоў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indexing map…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120254Z" creationid="alex" creationdate="20130625T120254Z">
+        <seg>Індэксаваньне мапы…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Info</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T072218Z">
@@ -1058,6 +1082,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T065524Z">
         <seg>Захаваныя лакальна OSM POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log track to GPX file</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120208Z" creationid="alex" creationdate="20130625T120124Z">
+        <seg>Лагаваньне трэкаў у GPX файл</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,10 +1406,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enable 'Log track to GPX file' settings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120202Z" creationid="alex" creationdate="20130625T120202Z">
+        <seg>Калі ласка, дазвольце 'Лагаваньне трэкаў у GPX файл' у наладах трэкінгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enable 'Log track to GPX' Tracking settings</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071043Z">
         <seg>Калі ласка, дазвольце 'Лагаваньне трэкаў у GPX' у наладах трэкінгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enable GPS in the settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120103Z" creationid="alex" creationdate="20130625T120103Z">
+        <seg>Калі ласка, дазвольце GPS у наладах</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Storage directory</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120320Z" creationid="alex" creationdate="20130625T120320Z">
+        <seg>Каталёг захоўваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Street</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T120836Z">
@@ -2394,6 +2450,30 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T062905Z">
         <seg>усходне-паўднёвы ўсход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>km</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120229Z" creationid="alex" creationdate="20130625T120229Z">
+        <seg>км</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>km/h</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120225Z" creationid="alex" creationdate="20130625T120225Z">
+        <seg>км/г</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>m</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T120226Z" creationid="alex" creationdate="20130625T120226Z">
+        <seg>м</seg>
       </tuv>
     </tu>
     <tu>
