@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115020Z" creationid="alex" creationdate="20130625T115020Z">
+        <seg>Кіравацца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Free space now {2} MB! Download {0} file(s) ({1} MB)?</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T074038Z">
@@ -1134,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115124Z" creationid="alex" creationdate="20130625T115124Z">
+        <seg>Не</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No info</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063825Z">
@@ -1346,6 +1362,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T121840Z">
         <seg>Месца пакуль ня вызначанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous navigation was unfinished. Continue following it? (%1$s seconds)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115056Z" creationid="alex" creationdate="20130625T114956Z">
+        <seg>Папярэдняя навігацыя не была скончаная. Працягваць кіравацца ёю ? (%1$s сэкундаў)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2170,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071523Z">
         <seg>Сусьветныя і тэматычныя мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T115110Z" creationid="alex" creationdate="20130625T115110Z">
+        <seg>Так</seg>
       </tuv>
     </tu>
     <tu>
