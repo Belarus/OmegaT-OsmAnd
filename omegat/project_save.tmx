@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GPX data</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122030Z" creationid="alex" creationdate="20130625T122030Z">
+        <seg>Зьвесткі GPX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GPX route</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T075704Z">
@@ -1426,6 +1434,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T072457Z">
         <seg>Зьмены POI у праграме не ўплываюць на зладаваныя файлы мапы, зьмены захоўваюцца толькі ў лякальныя файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>POI data</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122039Z" creationid="alex" creationdate="20130625T122039Z">
+        <seg>Зьвесткі цікавосткаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2346,22 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T060843Z">
         <seg>Бачнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice data (TTS)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122009Z" creationid="alex" creationdate="20130625T122009Z">
+        <seg>Галасавыя зьвесткі (TTS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice data (recorded)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122023Z" creationid="alex" creationdate="20130625T122023Z">
+        <seg>Галасавыя зьвесткі (запісаныя)</seg>
       </tuv>
     </tu>
     <tu>
