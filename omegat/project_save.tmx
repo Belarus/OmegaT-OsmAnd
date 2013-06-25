@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display language</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122656Z" creationid="alex" creationdate="20130625T122656Z">
+        <seg>Мова інтэрфэйсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display ruler</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T061150Z">
@@ -1774,6 +1782,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select between native and English names</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122812Z" creationid="alex" creationdate="20130625T122812Z">
+        <seg>Выбар паміж стандартных і ангельскіх назваў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select display language</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122706Z" creationid="alex" creationdate="20130625T122706Z">
+        <seg>Абраць мову інтэрфэйсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select map screen alignment</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122515Z" creationid="alex" creationdate="20130625T122515Z">
@@ -2198,6 +2222,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To compass</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122615Z" creationid="alex" creationdate="20130625T122615Z">
+        <seg>Па компасе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To direction of movement</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122609Z" creationid="alex" creationdate="20130625T122609Z">
+        <seg>У напрамку руху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Town</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T075539Z">
@@ -2274,6 +2314,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T065352Z">
         <seg>Заладоўваецца POI…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use English names in maps</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130625T122739Z" creationid="alex" creationdate="20130625T122739Z">
+        <seg>Ангельскія назвы на мапе</seg>
       </tuv>
     </tu>
     <tu>
