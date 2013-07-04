@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add as waypoint</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133041Z" creationid="alex" creationdate="20130704T133036Z">
+        <seg>Дадаць як кропку шляху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add to Favorites</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T114839Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T120707Z">
         <seg>Зачыніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compass</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133206Z" creationid="alex" creationdate="20130704T133206Z">
+        <seg>Компас</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map style</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133146Z" creationid="alex" creationdate="20130704T133146Z">
+        <seg>Стыль мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Map view and navigation settings are remembered per use profile. Set your default profile here.</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130702T135457Z" creationid="alex" creationdate="20130702T135457Z">
@@ -1770,6 +1794,22 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T121343Z" creationid="alex" creationdate="20130625T121339Z">
         <seg>Толькі паказаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OsmAnd Maps &amp; Navigation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133128Z" creationid="alex" creationdate="20130704T133128Z">
+        <seg>OsmAnd Мапы й навігацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OsmAnd+ Maps &amp; Navigation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133119Z" creationid="alex" creationdate="20130704T133119Z">
+        <seg>OsmAnd+ Мапы й навігацыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2602,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T072856Z">
         <seg>Вызначыць налады трэкінгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speed</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133216Z" creationid="alex" creationdate="20130704T133212Z">
+        <seg>Хуткасьць</seg>
       </tuv>
     </tu>
     <tu>
