@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configure the map display</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134745Z" creationid="alex" creationdate="20130704T134745Z">
+        <seg>Налады адлюстраваньня мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configure traffic warnings (speed limits, forced stops, speed bumps), speed camera warnings, and lane information</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130702T141219Z" creationid="alex" creationdate="20130702T141013Z">
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T073834Z">
         <seg>Арыентацыя мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map Settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134715Z" creationid="alex" creationdate="20130704T134715Z">
+        <seg>Налады мапы</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,6 +3098,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T064936Z">
         <seg>Ужываць назвы аб'ектаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use online maps (download and cache tiles on SD card)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134649Z" creationid="alex" creationdate="20130704T134649Z">
+        <seg>Карыстацца сеціўнымі мапамі (зладаваць і кэшаваць тайлы на картцы SD)</seg>
       </tuv>
     </tu>
     <tu>
