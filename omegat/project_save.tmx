@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>City: {0}</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134108Z" creationid="alex" creationdate="20130704T134108Z">
+        <seg>Горад: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click here to download or update offline data. \nClick any existing item to see more details, press and hold to deactivate or delete. Current data on device (%1$s free):</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T121915Z" creationid="alex" creationdate="20130625T121915Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130702T141219Z" creationid="alex" creationdate="20130702T141013Z">
         <seg>Наладзіць папярэджаньні руху (абмежаваньня хуткасьці, вымушаныя прыпынкі, штучныя няроўнасьці), камэры хуткасьці, інфармацыю па палосах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create POI</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134204Z" creationid="alex" creationdate="20130704T134204Z">
+        <seg>Стварыць цікавостку</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,6 +938,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T084613Z">
         <seg>Зладаваць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit POI</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134158Z" creationid="alex" creationdate="20130704T134158Z">
+        <seg>Рэдагаваць цікавостку</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134130Z" creationid="alex" creationdate="20130704T134130Z">
+        <seg>Гісторыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Home</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T082741Z">
@@ -1546,6 +1578,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122956Z" creationid="alex" creationdate="20130625T122956Z">
         <seg>Мілі/ярды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modify POI</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134038Z" creationid="alex" creationdate="20130704T134038Z">
+        <seg>Зьмяніць цікавостку</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save As</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134249Z" creationid="alex" creationdate="20130704T134249Z">
+        <seg>Захаваць як</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save directions</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081903Z">
@@ -2242,6 +2290,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081333Z">
         <seg>Пазначыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134235Z" creationid="alex" creationdate="20130704T134235Z">
+        <seg>Вылучыць усе</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Street: {0}, {1}</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134112Z" creationid="alex" creationdate="20130704T134112Z">
+        <seg>Вуліца: {0}, {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subtracks : %1$d\nTotal points : %2$d\nWay points : %3$d\nTotal distance : %4$s\nStart time : %5$tF, %5$tR\nEnd time : %6$tF, %6$tR</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T084249Z">
@@ -3058,6 +3122,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T060843Z">
         <seg>Бачнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134020Z" creationid="alex" creationdate="20130704T134020Z">
+        <seg>Голас</seg>
       </tuv>
     </tu>
     <tu>
