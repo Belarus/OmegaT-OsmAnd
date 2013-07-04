@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add comment</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134315Z" creationid="alex" creationdate="20130704T134315Z">
+        <seg>Дадаць камэнтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add to Favorites</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T114839Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130702T142344Z" creationid="alex" creationdate="20130702T142344Z">
         <seg>Аўдыё/відэа нататкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Author name</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134306Z" creationid="alex" creationdate="20130704T134306Z">
+        <seg>Імя аўтара</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +506,22 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071651Z">
         <seg>Зьмены ў 0.7.0 : \n\t- Пазасеткавыя зьвесткі вікіпэдыі з артыкуламі \n\t- Абноўленыя мапы \n\t- Іншыя невялікія пашырэньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes in 0.7.0: \n\t- Offline wikipedia data with articles \n\t- Updated maps \n\t- Other small features</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134520Z" creationid="alex" creationdate="20130704T134520Z">
+        <seg>Зьмены ў 0.7.0: \n\t- Пазасеткавыя зьвесткі вікіпэдыі з артыкуламі \n\t- Абноўленыя мапы \n\t- Іншыя невялікія пашырэньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose POI</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134351Z" creationid="alex" creationdate="20130704T134351Z">
+        <seg>Абраць цікавостку</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Latitude</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134336Z" creationid="alex" creationdate="20130704T134336Z">
+        <seg>Шырата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063446Z">
@@ -1490,6 +1530,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T120208Z" creationid="alex" creationdate="20130625T120124Z">
         <seg>Лагаваньне трэкаў у GPX файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Longitude</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T134334Z" creationid="alex" creationdate="20130704T134334Z">
+        <seg>Даўгата</seg>
       </tuv>
     </tu>
     <tu>
