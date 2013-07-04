@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Entertainment</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T132957Z" creationid="alex" creationdate="20130704T132957Z">
+        <seg>Забавы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Europe</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071426Z">
@@ -1070,6 +1078,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Food shop</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T132932Z" creationid="alex" creationdate="20130704T132932Z">
+        <seg>Прадуктовая крама</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For tourists</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T132942Z" creationid="alex" creationdate="20130704T132942Z">
+        <seg>Для турыстаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Free space now {2} MB! Download {0} file(s) ({1} MB)?</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T074038Z">
@@ -1130,6 +1154,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063246Z">
         <seg>Наперадзе справа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuel</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T132916Z" creationid="alex" creationdate="20130704T132916Z">
+        <seg>Паліва</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,6 +1250,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T082741Z">
         <seg>Дом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>House number</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T132820Z" creationid="alex" creationdate="20130704T132820Z">
+        <seg>Нумар дома</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,10 +1830,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parking</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133001Z" creationid="alex" creationdate="20130704T133001Z">
+        <seg>Паркоўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pedestrian</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130702T135329Z" creationid="alex" creationdate="20130702T135329Z">
         <seg>Пешшу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T132832Z" creationid="alex" creationdate="20130704T132832Z">
+        <seg>Тэлефон</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Public Transport</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T132952Z" creationid="alex" creationdate="20130704T132952Z">
+        <seg>Грамадзкі транспарт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T084609Z">
@@ -1954,6 +2018,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115003Z">
         <seg>Зьмяніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restaurants</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T132939Z" creationid="alex" creationdate="20130704T132939Z">
+        <seg>Рэстараны</seg>
       </tuv>
     </tu>
     <tu>
@@ -2970,6 +3042,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T115553Z" creationid="alex" creationdate="20130625T115553Z">
         <seg>Кропкі шляху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Web site</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T132830Z" creationid="alex" creationdate="20130704T132830Z">
+        <seg>Вэб-сайт</seg>
       </tuv>
     </tu>
     <tu>
