@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language not supported</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133915Z" creationid="alex" creationdate="20130704T133915Z">
+        <seg>Мова не падтрымліваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last map view</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081541Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T073834Z">
         <seg>Арыентацыя мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map Source</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133940Z" creationid="alex" creationdate="20130704T133940Z">
+        <seg>Крыніца мапы</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search history</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133814Z" creationid="alex" creationdate="20130704T133814Z">
+        <seg>Гісторыя пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search near :</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081557Z">
@@ -2842,6 +2866,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122934Z" creationid="alex" creationdate="20130625T122934Z">
         <seg>Адзінкі вымярэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade OsmAnd+</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T133848Z" creationid="alex" creationdate="20130704T133848Z">
+        <seg>Мадэрнізаваць OsmAnd+</seg>
       </tuv>
     </tu>
     <tu>
