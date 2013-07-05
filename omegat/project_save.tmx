@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Favorite Points</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T060240Z" creationid="alex" creationdate="20130705T060240Z">
+        <seg>Упадабаныя месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Favorite point(s) deleted successfully.</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T082649Z">
@@ -1534,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Location Sharing</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T060216Z" creationid="alex" creationdate="20130705T060216Z">
+        <seg>Абагульваньне месца знаходжаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Log track to GPX file</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T120208Z" creationid="alex" creationdate="20130625T120124Z">
@@ -1554,6 +1570,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T103841Z">
         <seg>Мапа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map Context Menu</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T060352Z" creationid="alex" creationdate="20130705T060322Z">
+        <seg>Кантэкставае мэню мапы</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,6 +1778,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T115124Z" creationid="alex" creationdate="20130625T115124Z">
         <seg>Не</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No favorite points exist</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T060255Z" creationid="alex" creationdate="20130705T060255Z">
+        <seg>Няма ўпадабаным месцаў</seg>
       </tuv>
     </tu>
     <tu>
