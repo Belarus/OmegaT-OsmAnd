@@ -189,7 +189,7 @@
     <string name="osmand_srtm_short_description_80_chars">OsmAnd plugin for offline contour lines</string>
     <string name="osmand_srtm_long_description_1000_chars">This plugin provides contour lines which can be displayed in OsmAnd\'s offline maps. The global data (between 70 degrees north and 70 degrees south) is based on measurements by SRTM (Shuttle Radar Topography Mission) and ASTER (Advanced Spaceborne Thermal Emission and Reflection Radiometer), an imaging instrument onboard Terra, the flagship satellite of NASA\'s Earth Observing System. ASTER is a cooperative effort between NASA, Japan\'s Ministry of Economy, Trade and Industry (METI), and Japan Space Systems (J-spacesystems).</string>
     <string name="map_widget_distancemeasurement">Distance measurement</string>
-    <string name="audionotes_location_not_defined">Location to associate with the note is not defined yet. \"Use location...\" to assign a note to the specified location</string>
+    <string name="audionotes_location_not_defined">Location to associate with the note is not defined yet. \"Use location …\" to assign a note to the specified location</string>
     <string name="monitoring_control_stop">stop</string>
     <string name="map_widget_audionotes">Audio notes</string>
     <string name="audionotes_plugin_description">Take audio/video notes during the trip</string>
@@ -278,7 +278,7 @@
     <string name="poi_filter_emergency">Emergency</string>
     <string name="poi_filter_public_transport">Public Transport</string>
     <string name="poi_filter_entertainment">Entertainment</string>
-    <string name="poi_filter_accomodation">Accomodation</string>
+    <string name="poi_filter_accomodation">Accommodation</string>
     <string name="poi_filter_restaurants">Restaurants</string>
     <string name="poi_filter_sightseeing">Sightseeing</string>
     <string name="poi_filter_car_aid">Car aid</string>
@@ -512,7 +512,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="live_monitoring_mode_on">Stop\n online tracking</string>
 	<string name="position_on_map_descr">Choose location of position marker on the map</string>
 	<string name="position_on_map">Position marker</string>
-	<string name="layer_map_appearance">Configure screen&#8230;</string>
+	<string name="layer_map_appearance">Configure screen</string>
 	<string name="show_lanes">Show lanes</string>
 	<string name="avoid_unpaved">Avoid unpaved roads</string>
 	<string name="avoid_ferries">Avoid ferries</string>
@@ -532,7 +532,6 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="screen_is_locked">To unlock screen press lock icon</string>
 	<string name="map_widget_top_text">Street name</string>
 	<string name="map_widget_config">Configure screen</string>
-	<string name="map_widget_map_select">Map source</string>
 	<string name="map_widget_back_to_loc">Where am I</string>
 	<string name="map_widget_lock_screen">Lock screen</string>
 	<string name="map_widget_compass">Compass</string>
@@ -768,7 +767,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 		\n\t- Other changes
 	</string>
 	<string name="update_poi_does_not_change_indexes">POI changes inside application do not affect downloaded map files, changes are saved to local file instead.</string>
-	<string name="local_openstreetmap_uploading">Uploading…</string>
+	<string name="local_openstreetmap_uploading">Uploading …</string>
 	<string name="local_openstreetmap_were_uploaded">{0} POI/Bugs were uploaded</string>
 	<string name="local_openstreetmap_uploadall">Upload all</string>
 	<string name="local_openstreetmap_items"></string>
@@ -837,7 +836,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="tip_day_night_mode">Day/Night Mode</string>
 	<string name="tip_day_night_mode_t_v2">\tThe map appearance can for some vector maps be changed between day (brighter) and night (darker).
 		\n\tNight colors are safer for night driving.
-		\n\tYou can set a policy for day/night switching in \'Menu\' -> \'Configure screen&#8230;\' ->\'Day/night map\'.
+		\n\tYou can set a policy for day/night switching in \'Menu\' -> \'Configure screen\' ->\'Day/night map\'.
 		\n\tChoices are:
 		\n\t\'Sunrise/Sunset\' - automatic mode, controlled by position of the sun (default)
 		\n\t\'Day\' - always use day mode
@@ -1167,7 +1166,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="continuous_rendering">Continuous rendering</string>
 	<string name="continuous_rendering_descr">Display continuous rendering instead of image-at-once</string>
 	<string name="rendering_exception">Error occurred while rendering selected area</string>
-	<string name="show_point_options">Use location...</string>
+	<string name="show_point_options">Use location …</string>
 	<string name="renderer_load_sucess">Renderer sucessfully loaded</string>
 	<string name="renderer_load_exception">Exception occured: renderer was not loaded</string>
 	<string name="renderers">Vector renderer</string>
@@ -1327,7 +1326,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="address">Address</string>
 	<string name="download_index_success">Download successful</string>
 	<string name="error_io_error">I/O error occured</string>
-	<string name="downloading_file_new">Downloading...</string>
+	<string name="downloading_file_new">Downloading …</string>
 	<string name="downloading">Downloading&#8230;</string>
 	<string name="downloading_list_indexes">Downloading list of available regions&#8230;</string>
 	<string name="list_index_files_was_not_loaded">The list of regions was not retrieved from osmand.net.</string>
