@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T055857Z" creationid="alex" creationdate="20130705T055857Z">
+        <seg>Далей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next turn</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115648Z">
@@ -2126,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T055855Z" creationid="alex" creationdate="20130705T055855Z">
+        <seg>Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Previous navigation was unfinished. Continue following it? (%1$s seconds)</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T115056Z" creationid="alex" creationdate="20130625T114956Z">
@@ -2146,6 +2162,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130704T132952Z" creationid="alex" creationdate="20130704T132952Z">
         <seg>Грамадзкі транспарт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recent changes</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T055835Z" creationid="alex" creationdate="20130705T055835Z">
+        <seg>Апошнія зьмены</seg>
       </tuv>
     </tu>
     <tu>
@@ -2994,6 +3018,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122934Z" creationid="alex" creationdate="20130625T122934Z">
         <seg>Адзінкі вымярэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Update of Offline Data</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T055951Z" creationid="alex" creationdate="20130705T055951Z">
+        <seg>Абнаўленьне пазасеткавых мапаў</seg>
       </tuv>
     </tu>
     <tu>
