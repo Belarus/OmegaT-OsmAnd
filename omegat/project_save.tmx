@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map source</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T060529Z" creationid="alex" creationdate="20130705T060529Z">
+        <seg>Крыніца мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Map source settings</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T075332Z">
@@ -2390,10 +2398,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Searching</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T060421Z" creationid="alex" creationdate="20130705T060421Z">
+        <seg>Пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searching position…</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081436Z">
         <seg>Пошук месца…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130705T060428Z" creationid="alex" creationdate="20130705T060428Z">
+        <seg>Пошук…</seg>
       </tuv>
     </tu>
     <tu>
