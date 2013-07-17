@@ -9,6 +9,23 @@
          3. All your modified/created strings are in the top of the file (to make easier find what\'s translated).
     PLEASE: Have a look at http://code.google.com/p/osmand/wiki/UIConsistency, it may really improve your and our work  :-)  Thx - Hardy
     -->
+    <string name="clear_intermediate_points">Clear intermediate points</string>
+    <string name="keep_intermediate_points">Keep intermediate points</string>
+    <string name="new_directions_point_dialog">You already have intermediate points set.</string>
+    <string name="context_menu_item_directions_to">Directions To</string>
+    <string name="context_menu_item_directions_from">Directions From</string>
+    <string name="route_descr_map_location">Map: </string>
+    <string name="route_descr_lat_lon">Lat %1$.3f, lon %2$.3f</string>
+    <string name="route_descr_current_location">Current position</string>
+    <string name="route_descr_destination"></string>
+    <string name="route_to">To:</string>
+    <string name="route_via">Via:</string>
+    <string name="route_from">From:</string>
+    <string name="speak_warnings_title">Announce alarms&#8230;</string>
+	<string name="speak_warnings_descr">Configure traffic warnings (forced stops, speed bumps), speed camera warnings, speed limits</string>
+    <string name="speak_speed_limit">Announce speed limit</string>
+    <string name="speak_cameras">Announce speed cameras</string>
+	<string name="speak_traffic_warnings">Announce traffic warnings</string>
 	<string name="local_index_gpx_timespan">\nTime span: %1$d:%2$02d:%3$02d</string>
 	<string name="local_index_gpx_timemoving">\nTime moving: %1$d:%2$02d:%3$02d</string>
 	<string name="app_mode_default">Browse map</string>
@@ -216,10 +233,6 @@
 	</string>
     <string name="map_widget_max_speed">Speed limit</string>
     <string name="monitoring_control_start">GPX</string>
-    <string name="route_descr_lat_lon">Lat %1$.3f, lon %2$.3f</string>
-    <string name="route_descr_current_location">Current position</string>
-    <string name="route_descr_from_to">From: %1$s\nTo: %2$s</string>
-    <string name="route_descr_from_to_via">From: %1$s\nVia: %2$s\nTo: %3$s</string>
     <string name="no_buildings_found">No buildings found.</string>
     <string name="incremental_search_city">Search city incrementally</string>
     <string name="search_villages_and_postcodes">Search villages/postcode</string>
@@ -770,7 +783,6 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="local_openstreetmap_uploading">Uploading …</string>
 	<string name="local_openstreetmap_were_uploaded">{0} POI/Bugs were uploaded</string>
 	<string name="local_openstreetmap_uploadall">Upload all</string>
-	<string name="local_openstreetmap_items"></string>
 	<string name="local_openstreetmap_show">Show on map</string>
 	<string name="local_openstreetmap_upload">Upload modification to OSM</string>
 	<string name="local_openstreetmap_delete">Delete modification</string>
@@ -781,7 +793,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="live_monitoring">Online tracking</string>
 	<string name="live_monitoring_interval_descr">Specify online tracking interval</string>
 	<string name="live_monitoring_interval">Online tracking interval</string>
-	<string name="live_monitoring_url_descr">Specify the web address with parameter syntax: lat={0}, lon={1}, timestamp={2}, hdop={3}, altitude={4}, speed={5}</string>
+	<string name="live_monitoring_url_descr">Specify the web address with parameter syntax: lat={0}, lon={1}, timestamp={2}, hdop={3}, altitude={4}, speed={5}, bearing={6}</string>
 	<string name="live_monitoring_url">Online tracking web address</string>
 	<string name="gpx_monitoring_disabled_warn">Please enable \'Log track to GPX file\' settings.</string>
 	<string name="show_current_gpx_title">Show current track</string>
@@ -974,7 +986,6 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="local_index_address_data">Address data</string>
 	<string name="local_index_transport_data">Transportation data</string>
 	<string name="local_index_map_data">Map data</string>
-	<string name="local_index_items"></string>
 	<string name="local_indexes_cat_backup">Deactivated</string>
 	<string name="local_indexes_cat_tts">Voice data (TTS)</string>
 	<string name="local_indexes_cat_voice">Voice data (recorded)</string>
@@ -1223,7 +1234,6 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="layer_map">Map source&#8230;</string>
 	<string name="menu_layers">Define view</string>
 	<string name="context_menu_item_search_poi">Search POI</string>
-	<string name="context_menu_item_show_route">Show route from here</string>
 	<string name="use_trackball_descr">Use trackball to move map</string>
 	<string name="use_trackball">Use trackball</string>
 	<string name="background_service_wait_int_descr">Set maximum waiting time for each background position fix</string>
@@ -1512,11 +1522,11 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="av_camera_focus">Camera focus type</string>
 	<string name="av_camera_focus_descr">Select internal camera focus type</string>
 	<string name="av_camera_focus_auto">Auto focus</string>
-	<string name="av_camera_focus_hiperfocal">Hiperfocal focus</string>
+	<string name="av_camera_focus_hiperfocal">Hyperfocal focus</string>
 	<string name="av_camera_focus_edof">Extended depth of field (EDOF)</string>
 	<string name="av_camera_focus_infinity">Focus is set at infinity</string>
 	<string name="av_camera_focus_macro">Macro (close-up) focus mode</string>
 	<string name="av_camera_focus_continuous">The camera continuously tries to focus</string>
 	<string name="av_photo_play_sound">Play sound on photo shot</string>
-	<string name="av_photo_play_sound_descr">When shot photo play sound</string>
+	<string name="av_photo_play_sound_descr">Choose whether to play a sound when shooting photos</string>
 </resources>
