@@ -9,8 +9,55 @@
          3. All your modified/created strings are in the top of the file (to make easier find what\'s translated).
     PLEASE: Have a look at http://code.google.com/p/osmand/wiki/UIConsistency, it may really improve your and our work  :-)  Thx - Hardy
     -->
+	<string name="tip_map_styles">Map Styles</string>
+	<string name="tip_map_styles_t">OsmAnd supports displaying the offline vector maps in different map styles to suit your to needs:
+		\n\nOther than the balanced \'default\' map style, you may in \'Menu\' → \'Configure screen\' → \'Map Style\' select for example
+		\n\t* The \'Touring view\' style, which contains the most detailed information feasable for traveling and touring, including optimization for professional drivers (higher contrast, distinguishable roads), options for Alpine hiking (SAC scale), cycle routes, hiking symbol support, etc.
+		\n\t* \'High contrast roads\' shows roads in very accentuated colors for bright ambient lighting situations
+		\n\t* \'Winter and ski\' creates a (snow covered) winter landscape view, and shows global ski slopes and lifts (in connection with the \'World ski\' map download)
+	</string>
+    <string name="about_version">Version :</string>
+    <string name="about_settings">About</string>
+    <string name="about_settings_descr">Version info, licenses, project members</string>
+    <string name="tips_and_tricks">Tips</string>
+    <string name="tip_recent_changes_1_6_t">Changes in 1.6:
+	\n\t* Define/edit online tile source (specify expiration time)
+    </string>
+    <string name="local_index_tile_data_zooms">Zooms downloaded: %1$s</string>
+    <string name="local_index_tile_data_expire">Expire (minutes): %1$s</string>
+    <string name="local_index_tile_data_downloadable">Downloadable: %1$s</string>
+    <string name="local_index_tile_data_maxzoom">Maximum zoom: %1$s</string>
+    <string name="local_index_tile_data_minzoom">Minimum zoom: %1$s</string>
+    <string name="local_index_tile_data_name">Tile data: %1$s</string>
+    <string name="edit_tilesource_successfully">Tilesource %1$s is successfully saved</string>
+    <string name="edit_tilesource_elliptic_tile">Elliptic mercator</string>
+    <string name="edit_tilesource_maxzoom">Max zoom</string>
+    <string name="edit_tilesource_expiration_time">Expire (minutes)</string>
+    <string name="edit_tilesource_minzoom">Min zoom</string>
+    <string name="edit_tilesource_url_to_load">URL</string>
+    <string name="edit_tilesource_choose_existing">Choose existing...</string>
+    <string name="edit_tilesource_name">Name</string>
+    <string name="maps_define_edit">Define/Edit&#8230;</string>
+	<string name="map_widget_fps_info">FPS debug info</string>
+	<string name="driving_region_descr">Select Driving Region : US, Europe, UK, Asia and Others</string>
+	<string name="driving_region">Driving Region</string>
+	<string name="driving_region_japan">Japan</string>
+	<string name="driving_region_us">United States</string>
+	<string name="driving_region_canada">Canada</string>
+	<string name="driving_region_europe_asia">Europe &amp; Asia</string>
+	<string name="driving_region_uk">UK, India, Australia &amp; Others</string>
+	<string name="osmodroid_mode_on">Stop OsMoDroid</string>    
+    <string name="osmodroid_mode_off">Start OsMoDroid</string>
+    <string name="announce_gpx_waypoints">Announce GPX waypoints</string>
+    <string name="speak_title">Announce&#8230;</string>
+	<string name="speak_descr">Configure to announce street names, traffic warnings (forced stops, speed bumps), speed camera warnings, speed limits</string>
+	<string name="speak_street_names">Announce street names (TTS)</string>
+    <string name="speak_speed_limit">Announce speed limit</string>
+    <string name="speak_cameras">Announce speed cameras</string>
+	<string name="speak_traffic_warnings">Announce traffic warnings</string>
     <string name="tip_recent_changes_1_5_t">Changes in 1.5:
 	\n\t* Voice warnings about speed limits and cameras
+	\n\t* More voice prompt capabilities (street names announced)
 	\n\t* High density map icons
 	\n\t* Lots of UI changes
 	\n\t* Bugfixes in distance display, GPX analyzer, waypoint handling, planning widget, OSM uploading, https handling
@@ -28,11 +75,6 @@
     <string name="route_to">To:</string>
     <string name="route_via">Via:</string>
     <string name="route_from">From:</string>
-    <string name="speak_warnings_title">Announce alarms&#8230;</string>
-	<string name="speak_warnings_descr">Configure traffic warnings (forced stops, speed bumps), speed camera warnings, speed limits</string>
-    <string name="speak_speed_limit">Announce speed limit</string>
-    <string name="speak_cameras">Announce speed cameras</string>
-	<string name="speak_traffic_warnings">Announce traffic warnings</string>
 	<string name="local_index_gpx_timespan">\nTime span: %1$d:%2$02d:%3$02d</string>
 	<string name="local_index_gpx_timemoving">\nTime moving: %1$d:%2$02d:%3$02d</string>
 	<string name="app_mode_default">Browse map</string>
@@ -53,7 +95,7 @@
     <string name="search_street_in_neighborhood_cities">Search street in neighborhood cities</string>
     <string name="intermediate_items_sort_return">Intermediate waypoints resorted to optimize their order on the way to the destination.</string>
     <string name="intermediate_items_sort_by_distance">Sort (door-to-door)</string>
-    <string name="local_osm_changes_backup_successful">OSM change file succesfully generated %1$s</string>
+    <string name="local_osm_changes_backup_successful">OSM change file successfully generated %1$s</string>
     <string name="local_osm_changes_backup_failed">Backup OSM changes failed</string>
     <string name="local_osm_changes_backup">Backup as OSM change</string>
     <string name="delete_point">Delete Point</string>
@@ -63,7 +105,7 @@
     <string name="plugin_distance_point_ele">elevation</string>
     <string name="plugin_distance_point">Point</string>
     <string name="gpx_file_name">GPX file name</string>
-    <string name="gpx_saved_sucessfully">GPX file succesfully saved to {0}</string>
+    <string name="gpx_saved_sucessfully">GPX file successfully saved to {0}</string>
     <string name="osmand_distance_planning_plugin_description">Create paths (or use / modify existing GPX files) to measure the distance between points. Save as GPX, can be used to plan GPX routes.</string>
     <string name="osmand_distance_planning_plugin_name">Distance calculator &amp; Planning Tool</string>
     <string name="use_distance_measurement_help">* Tap to mark a point.\n 
@@ -167,7 +209,7 @@
     <string name="recording_context_menu_precord">Take a photo</string>
     <string name="dropbox_plugin_description">Dropbox plugin allows to synchronize tracks and audio/video notes with your dropbox account.</string>
     <string name="dropbox_plugin_name">Dropbox plugin</string>
-    <string name="animate_routing_using_gpx">Do you want to use existing GPX file?</string>
+    <string name="animate_routing_using_gpx">Open a pre-recorded GPX route to follow?</string>
     <string name="intermediate_points_change_order">Change order</string>
     <string name="srtm_paid_version_msg">Please consider to buy the Contour lines plugin in the Market to support further development.</string>
     <string name="srtm_paid_version_title">Contour lines plugin</string>
@@ -184,7 +226,7 @@
     <string name="av_use_external_camera">Use camera app</string>
     <string name="av_settings_descr">Configure audio and video settings</string>
     <string name="av_settings">Audio/video settings </string>
-    <string name="recording_error">Error ocurred while recording </string>
+    <string name="recording_error">Error occurred while recording </string>
     <string name="recording_camera_not_available">Camera is not available</string>
     <string name="recording_is_recorded">Audio/video is being recorded. To stop it press the AV widget.</string>
     <string name="recording_playing">An audio from the specified recording is being played.\n%1$s</string>
@@ -220,7 +262,7 @@
     <string name="audionotes_plugin_name">Audio/video notes</string>
     <string name="index_srtm_parts">parts</string>
     <string name="index_srtm_ele">Contour lines</string>
-    <string name="srtm_plugin_description">Facilitates downloading offline contour lines and hillshades (Settings -> Data Management -> Download -> Select desired map type).</string>
+    <string name="srtm_plugin_description">Facilitates downloading offline contour lines and hillshades (\'Settings\' → \'Data Management\' → \'Download\' → Select desired map type).</string>
     <string name="srtm_plugin_name">Contour lines plugin</string>
     <string name="download_select_map_types">Other maps</string>
     <string name="download_roads_only_item">Roads only</string>
@@ -233,10 +275,10 @@
     <string name="osmodroid_plugin_old_ver_not_supported">OsMoDroid plugin has an old version and needs to be updated.</string>
     <string name="osmodroid_plugin_description">OsMoDroid plugin is OsmAnd extension for OsModroid application for online tracking features. Information about the service is available on http://esya.ru.</string>
     <string name="osmodroid_plugin_name">OsMoDroid plugin</string>
-	<string name="tip_altitude_offset">Altitude Display - Offset Correction</string>
-	<string name="tip_altitude_offset_t">\tMost GPS devices report altitude measurements in the ellipsoid-based WGS84 reference system, from which a conversion to locally used systems requires a position-dependent correction.
-		\n\tA better approximation to these local systems is the EGM96 reference. OsmAnd now also supports the automatic display of altitudes in the EGM96 system.
-		\n\tIn order to achieve this, simply download the file WW15MGH.DAC via Data Management (original is at http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm96/binary/WW15MGH.DAC).
+	<string name="tip_altitude_offset">Altitude Correction</string>
+	<string name="tip_altitude_offset_t">Most GPS devices report altitude measurements in the ellipsoid-based WGS84 reference system, from which a conversion to locally used systems requires a position-dependent correction.
+		\n\nA better approximation to these local systems is the EGM96 (geoid) reference.
+		\n\nOsmAnd will display your positions\'s altitude in the EGM96 system after you download the file \'World Altitide Correction\' (WW15MGH.DAC) via \'Settings\' → \'Data Management\'. (Original is at http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm96/binary/WW15MGH.DAC.)
 	</string>
     <string name="map_widget_max_speed">Speed limit</string>
     <string name="monitoring_control_start">GPX</string>
@@ -514,12 +556,15 @@ Approximate map coverage and quality:
 List of countries supported (basically world wide!):
 Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, Bosnia and Herzegovina, Botswana, Brazil, British Virgin Islands, Brunei, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Central African Republic, Chad, Chile, China, Colombia, Comoros, Congo, Costa Rica, Ivory Coast, Croatia, Cuba, Curaçao, Cyprus, Czech Republic, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, Estonia, Ethiopia, Fiji, Finland, France, French Guiana, French Polynesia, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinea-Bissau, Guyana, Haiti, Vatican, Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jamaica, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kiribati, North Korea and South Korea, Kuwait, Kyrgyzstan, Laos, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Macedonia, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Mexico, Micronesia, Moldova, Monaco, Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, Netherlands, Netherlands Antilles, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Puerto Rico, Qatar, Romania, Russia, Rwanda, Saint Barthelemy, Saint Helena, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, San Marino, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Slovakia, Slovenia, Somalia, South Africa, South Georgia, South Sudan, Spain, Sri Lanka, Sudan, Suriname, Swaziland, Sweden, Switzerland, Syria, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tokelau, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Tuvalu, Uganda, Ukraine, United Arab Emirates, United Kingdom (UK), United States of America (USA), Uruguay, Uzbekistan, Vanuatu, Venezuela, Vietnam, Wallis and Futuna, Western Sahara, Yemen, Zambia, Zimbabwe.
 	</string>
-	<string name="tip_update_index">Update of Offline Data</string>
-	<string name="tip_update_index_t">\tHaving up-to-date map data is essential. OsmAnd provides a data manager which can check for available offline data updates.
-		\n\tTo check for updates go to \'Settings\' -> \'Data Management\' -> \'Download offline data\'. After region list is retrieved from the internet, you can select option \'Menu\' -> \'Filter downloaded\' to indicate updates only for data already on your device.
-		\n\tEntries in \'green\' indicate data files identical on device and server
-		\n\tEntries in \'blue\' indicate available updates on server
-		\n\tEntries in italic font indicate data de-activated on the device</string>
+	<string name="tip_update_index">Updating Offline Maps</string>
+	<string name="tip_update_index_t">Up-to-date map data is essential for offline map viewing, for POI/address search, and for offline navigation. OsmAnd provides a data manager to download these offline maps (and some other data files), and to check for available updates.
+		\n\nTo download maps go to \'Settings\' → \'Data Management\' → \'Download offline data\'.
+		\n\nAfter the global region list is retrieved from the internet, click on any entry to download or update a file. Please note the file type selector near the top of the screen to select the type of download you want (regular maps, hillshade overlays, etc.).
+		\n\nYou can filter the region list by typing some letters, or you may select the option \'Settings\' → \'Filter downloaded\' to see updates only for the data already on your device.
+		\n\n\t* Entries in \'green\' indicate data files identical on device and server
+		\n\t* Entries in \'blue\' indicate available updates on server
+		\n\t* Entries in italic font indicate data de-activated on the device
+	</string>
 	<string name="filterpoi_activity">Create POI filter</string>
 	<string name="recalculate_route_to_your_location">Transport mode:</string>
 	<string name="select_navigation_mode">Select transport mode</string>
@@ -654,7 +699,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="unknown_location">Position not yet known</string>
 	<string name="modify_transparency">Modify transparency (0 - transparent, 255 - opaque)</string>
 	<string name="confirm_interrupt_download">Do you want to interrupt file downloading?</string>
-	<string name="first_time_msg">Thank you for using OsmAnd. For many features of this application you need some regional offline data which you can download via \'Settings\' ->  \'Data Management\'. Afterwards you will be able to view maps, locate addresses, look up POIs, and find public transportation.</string>    
+	<string name="first_time_msg">Thank you for using OsmAnd. For many features of this application you need some regional offline data which you can download via \'Settings\' →  \'Data Management\'. Afterwards you will be able to view maps, locate addresses, look up POIs, and find public transportation.</string>    
 	<string name="basemap_was_selected_to_download">Basemap is required for proper application functioning and was selected to download.</string>
 	<string name="select_index_file_to_download">Nothing was found. If you can\'t find your region, you can make it yourself (see http://osmand.net).</string>
 	<string name="local_indexes_cat_tile">Online and tile maps</string>
@@ -825,8 +870,8 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="index_name_oceania">Oceania</string>
 	<string name="index_name_other">Worldwide and topic maps</string>
 	<string name="index_name_wiki">Worldwide Wikipedia POIs</string>
-	<string name="index_name_voice">Voice packs (recorded)</string>
-	<string name="index_name_tts_voice">Voice packs (TTS)</string>
+	<string name="index_name_voice">Voice packs (recorded, limited features)</string>
+	<string name="index_name_tts_voice">Voice packs (TTS-synthesized, prefer)</string>
 	<string name="amenity_type_wikiosm">Wikipedia (offline)</string>
 	<string name="amenity_type_user_defined">User defined</string>
 	<string name="fav_export_confirmation">File with previously exported favorites already exists. Do you want to replace it?</string>
@@ -845,35 +890,39 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="osmand_service">Sleep mode functionality</string>
 	<string name="osmand_service_descr">Use to run OsmAnd while screen is off</string>
 	<string name="tip_rotation_switching">Map Orientation</string>
-	<string name="tip_rotation_switching_t_v2">\tYou can toggle whether and how the map display is rotated by repeatedly clicking on the map screen\'s compass icon.
-		\n\tThe choices are:
-		\n\t\'Don\'t rotate (north is up)\' - Map will not be rotated. North will be always up
-		\n\t\'To direction of movement\' - Map will continuously be aligned with your heading
-		\n\t\'To compass\' - Map will continuously be aligned with device compass reading
+	<string name="tip_rotation_switching_t_v2">You can toggle whether and how the map display is rotated by repeatedly clicking on the map screen\'s compass icon.
+		\n\nThe choices are:
+		\n\t* \'Don\'t rotate (north is up)\': Map will not be rotated. North will be always up
+		\n\t* \'To direction of movement\': Map will continuously be aligned with your heading
+		\n\t* \'To compass\': Map will continuously be aligned with the device\'s compass reading
 	</string>
-	<string name="binary_map_download_success">Download successful.\n\t\n\tTo use activate \'Menu\' -> \'Define View\' -> \'Map source&#8230;\' -> \'Offline vector maps\'.</string>
+	<string name="binary_map_download_success">Download successful.
+		\n\t\n\tTo use activate \'Menu\' → \'Map layers\' → \'Map source&#8230;\' → \'Offline vector maps\'.
+	</string>
 	<string name="tip_day_night_mode">Day/Night Mode</string>
-	<string name="tip_day_night_mode_t_v2">\tThe map appearance can for some vector maps be changed between day (brighter) and night (darker).
-		\n\tNight colors are safer for night driving.
-		\n\tYou can set a policy for day/night switching in \'Menu\' -> \'Configure screen\' ->\'Day/night map\'.
-		\n\tChoices are:
-		\n\t\'Sunrise/Sunset\' - automatic mode, controlled by position of the sun (default)
-		\n\t\'Day\' - always use day mode
-		\n\t\'Night\' - always use night mode 
-		\n\t\'Light sensor\' - map appearance is controlled by light sensor of your device (only if equipped)
+	<string name="tip_day_night_mode_t_v2">The map appearance can for offline vector maps be changed between day (brighter) and night (darker). Night colors are safer and more comfortable for night driving.
+		\n\nYou can set a policy for day/night switching in \'Menu\' → \'Configure screen\' → \'Day/night map\'.
+		\n\nThe choices are:
+		\n\t* \'Sunrise/Sunset\': automatic mode, controlled by the position of the sun (default)
+		\n\t* \'Day\': always use day mode
+		\n\t* \'Night\': always use night mode
+		\n\t* \'Light sensor\': map appearance is controlled by the device\'s light sensor (only if equipped)
 	</string>	
 	<string name="tip_osm_improve">Improving OSM Data</string>
-	<string name="tip_osm_improve_t">\tOsmAnd uses maps based on Openstreetmap.org (OSM) data and -besides map viewing and navigation- can be used to improve OSM data quality. You can easily create and upload new POI or OSM bug reports with just a few clicks!
-		\n\tFor this you need to first provide your OSM login information in \'Settings\' -> \'General settings\' -> \'OSM editing\'.
-		\n\tTo add a new POI use option \'Create POI\' in the map context menu. Proceed with entering the information about the new POI in \'Create POI\' dialog and finally commit it.
-		\n\tErrors in maps can immediately be reported via OSM bug, and OSM community can then faster fix this problem.
-		\n\tTo add a OSM bug use option \'Open OSM bug\' in the map context menu. Then enter the detailed description of the problem and finally post it using the \'Add\' button.
-		\n\tPlease note that Internet connectivity is needed for OSM POI and and OSM bug contributions.</string>
+	<string name="tip_osm_improve_t">OsmAnd uses maps based on Openstreetmap.org (OSM) data and can directly be used to improve OSM data quality. You can create and upload new POI or OSM bug reports with just a few clicks.
+		\n\nFor this you need to activate the \'OSM Editing\' plugin under \'Settings\' → \'Plugins\', then provide your OSM login information in \'Settings\' → \'OSM editing\'.
+		\n\nTo add a new POI use option \'Create POI\' in the \'Use location\' context menu. Proceed with entering the information about the new POI in \'Create POI\' dialogue and finally commit it.
+		\n\nAlso errors in maps can immediately be reported via an OSM bug, so the OSM community can then fix this problem. Use the option \'Open OSM bug\' in the \'Use location\' context menu. Then enter the detailed description of the problem and finally post it using the \'Add\' button.
+		\n\nOsmAnd supports caching your entries offline (see respective setting), but Internet connectivity is of course needed to upload your OSM POI and OSM bug contributions.
+	</string>
 	<string name="download_files_not_enough_space">There is not enough free space to download %1$s MB (free: %2$s).</string>
 	<string name="download_files_question_space">Free space now {2} MB! Download {0} file(s) ({1} MB)?</string>
-	<string name="tip_select_destination_point">Get Directions</string>
-	<string name="tip_select_destination_point_t">\tYou get directions to a place in the map directly (context menu, then \'Directions\'), in all search activities, or via long pressing an entry in your \'List of Favorite Points\'. 
-		\n\tThe destination is marked as an orange target flag marker on the map and OsmAnd displays the distance to it and the direction to it (orange triangle).
+	<string name="tip_navigation">Navigation</string>
+	<string name="tip_navigation_t">To get directions to a place, either directly long-click on it on the map, (then tap its description marker and select \'Directions to\'), or select \'Directions\' after tapping any entry in a search results list or favorite list. 
+		\n\nThe destination is marked as an orange target flag marker on the map and OsmAnd displays the distance to it and the direction to it (orange triangle).
+		\n\nYou may chose to either \'Follow\' a route, which means that OsmAnd would live-guide you, give you voice instructions (if enabled), etc. Or you can select to \'Only show\' a route on the map, which would produce a static route without any live-guideance or adjustments as you move.
+		\n\nTo show a route to the selected destination from any point other than your current position, select the start point on the map and tap \'Directions from\'.
+		\n\nShould you select \'Directions from\' together with \'Follow\', OsmAnd will switch to your actual position as soon as it it found (so this can be used to jump-start routing before the position is found), while \'Directiosn from\' in combination with \'Only show\' just shows you the route from any arbitrary point you had selected without subsequent updates. 
 	</string> 
 	<string name="tip_recent_changes_0_6_9_t">Changes in 0.6.9 :
 		\n\t- Improved offline map rendering
@@ -988,7 +1037,6 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="local_index_mi_delete">Delete</string>
 	<string name="local_index_mi_reload">Reload from sdcard</string>
 	<string name="local_index_download">Download</string>
-	<string name="local_index_tile_data">Tile data: %1$s \nMinimum zoom: %2$d\nMaximum zoom: %3$d\nDownloadable: %4$s \nZooms downloaded: %5$s</string>
 	<string name="local_index_poi_data">POI data</string>
 	<string name="local_index_address_data">Address data</string>
 	<string name="local_index_transport_data">Transportation data</string>
@@ -1004,7 +1052,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="map_text_size">Map font size</string>
 	<string name="trace_rendering">Rendering debug info</string>
 	<string name="trace_rendering_descr">Display rendering performance</string>
-	<string name="tip_recent_changes">Recent changes</string>
+	<string name="tip_recent_changes">Recent Changes</string>
 	<string name="tip_recent_changes_0_6_6_t">Recent changes for 0.6.6: 
 		\n\t- Text To Speech engine for voice navigation
 		\n\t- Make map renderer more detailed
@@ -1024,7 +1072,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="gpx_option_reverse_route">Reverse GPX direction</string>
 	<string name="gpx_option_destination_point">Use current destination</string>
 	<string name="gpx_option_from_start_point">Pass along entire track</string>
-	<string name="switch_to_vector_map_to_see">Offline vector map present for this location. \n\t\n\tTo use activate \'Menu\' -> \'Define view\' -> \'Map Source&#8230;\' -> \'Offline vector maps\'.</string>
+	<string name="switch_to_vector_map_to_see">Offline vector map present for this location. \n\t\n\tTo use activate \'Menu\' → \'Map layers\' → \'Map Source&#8230;\' → \'Offline vector maps\'.</string>
 	<string name="choose_audio_stream">Voice guidance output</string>
 	<string name="choose_audio_stream_descr">Choose channel to play voice guidance (system-dependent)</string>
 	<string name="voice_stream_voice_call">Voice call audio</string>
@@ -1048,17 +1096,15 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="install_more">Install more&#8230;</string>
 	<string name="level_to_switch_vector_raster_descr">Minimum zoom level to use vector maps</string>
 	<string name="level_to_switch_vector_raster">Min. vector zoom level</string>
-	<string name="tip_location_sharing">Location Sharing</string>
-	<string name="tip_location_sharing_t">\tYou can share the location of interesting places on your trip  with family or friends.
-		\n\tTo share any location you want:
-		\n\tUse \'Map context menu\' -> \'Share location\' menu.
-		\n\tThen select a way to share your location. The choices are: E-Mail, SMS(text), or just copy location coordinates to clipboard.
+	<string name="tip_location_sharing">Share a Location</string>
+	<string name="tip_location_sharing_t">You can share the location of interesting places on your trip with family or friends via the \'Use location\' context menu → \'Share location\'.
+		\n\nThen chose a way to share your location. The choices are: E-Mail, SMS(text), or just copy the location coordinates to the device clipboard.
 	</string>
 	<string name="tip_favorites">Favorite Points</string>
-	<string name="tip_favorites_t">\tFrequently used points can be saved as Favorites.
-		\n\tTo save a point as Favorite go to the map context menu, select option \'Add to favorites\' and then enter a name for it. After saving a Favorite, it is accessible via \'Main Screen\' -> \'Favorites\'.
-		\n\tLong pressing on a Favorite in the \'Favorites\' menu provides options to set it as desination, Edit or Delete it.
-		\n\tTo display all Favorite points directly on the map, on the map screen enable layer \'Favorites\' under \'Menu\' -> \'Define view\'.
+	<string name="tip_favorites_t">Frequently used points can be saved as Favorites, as follows:
+		\n\nIn the \'Use location\' context menu for any point, select option \'Add to favorites\' and then enter a name for it.
+		\n\nAfter saving a Favorite, it is accessible via \'Menu\' → \'Favorites\'. Tapping on any entry in the \'Favorites\' list provides options like to navigate to it, edit or delete it.
+		\n\nTo display all Favorite points directly on the map, on the map screen enable layer \'Favorites\' in \'Menu\' → \'Map layers\'.
 	</string>
 	<string name="create_poi_link_to_osm_doc"><u>Online OSM</u> map classification with images</string>
 	<string name="error_doing_search">Error occurred in offline search</string>
@@ -1068,29 +1114,33 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="preferred_locale_descr">Select display language</string>
 	<string name="preferred_locale">Display language</string>
 	<string name="incomplete_locale">incomplete</string>
-	<string name="tip_map_switch">Map Source</string>
-	<string name="tip_map_switch_t_v2">\tThe map source and layers displayed are changed via \'Menu\' -> \'Define view\' in map view.
-		\n\tUnder \'Map source&#8230;\' you can choose using the pre-loaded offline vector maps, predefined (online) tile sources (activate the \'Online and tile maps\' plugin for this), or maps manually created using e.g. OsmAndMapCreator on a PC.
-		\n\tOsmAnd also supports custom sources.
+	<string name="tip_map_switch">Select a Map Source</string>
+	<string name="tip_map_switch_t_v2">The map source and map layers displayed are changed via \'Menu\' → \'Map layers\'.
+		\n\nUnder \'Map source&#8230;\' you can choose using the pre-loaded offline vector maps (default, also needed for offline navigation), or predefined (online or cached offline) tile sources (activate the \'Online maps\' plugin under \'Settings\' → \'Plugins\' for this), or maps manually created using e.g. OsmAndMapCreator on a PC.
+		\n\nOsmAnd also supports custom sources.
 	</string>
-	<string name="tip_app_mode">User Profile</string>
-	<string name="tip_app_mode_t_v2">\tOsmAnd supports different (customizable) application profiles for different use cases.
-		\n\tYou can change profiles via the profile button in the lower left corner of the map screen (icon car, bicycle, or pedestrian), or when creating a route.
+	<string name="tip_app_mode">Use Profile</string>
+	<string name="tip_app_mode_t_v2">OsmAnd supports different (customizable) application profiles for different use cases.
+		\n\nYou can change profiles via the profile button in the lower left corner of the map screen (icon car, bicycle, or pedestrian), or when creating a route (\'transport mode\').
 	</string>
-	<string name="tip_navigation">Navigation</string>
-	<string name="tip_navigation_t">\tBefore starting a navigation you need to select a destination. Afterwards press \'Menu\' -> \'Directions\' on map and select the navigation type.</string>
 	<string name="tip_search">Searching</string>
-	<string name="tip_search_t">\tYou can search for places directly on the map, or by address, by location, as POI, or as predefined favorite.
-		\n\tPressing \'Search\' on the main screen opens the search activities. For all hits a context menu offers the options \'Directions\' or \'Show on map\'.
+	<string name="tip_search_t">You can search for places directly on the map via \'Use location\' → \'Search near here\', or by calling the search screen via \'Menu\' → \'Search\'.
+		\n\nThe search screen provides templates for searching
+		\n\t* by address
+		\n\t* via coordinates
+		\n\t* as POI (by type or by name)
+		\n\t* via your search history
+		\n\t* or via your predefined favorites.
+		\n\nFor all hits a context menu or action bar offers options like \'Directions\' or \'Show on map\', etc.
 	</string>
-	<string name="tip_map_context_menu">Map Context Menu</string>
-	<string name="tip_map_context_menu_t">\tThe map context menu is available by pressing and holding on the map or by pressing the trackball button.
-		\n\tThis produces a box with point coordinates. To open the map context menu dialog, tap on it. (Or press and hold on it to hide the box again.)
-		\n\tThe map context menu contains all actions referring to a point (location).
+	<string name="tip_map_context_menu">\'Use location\' Menu</string>
+	<string name="tip_map_context_menu_t">The \'Use location\' context menu contains all actions referring to a point (location).
+		\n\nIt is available by long-pressing any point on the map (then tapping its marker), or by pressing the trackball button, or by selecting \'Menu\' → \'Use location\' (the last two ways take the map center as reference).
+		\n\nA marker box can be hidden again by long-clicking on it.
 	</string>
 	<string name="tip_initial">Tips and Tricks</string>
-	<string name="tip_initial_t">\tOsmAnd is a navigation application with many features. 
-		\n\tAs a basic introduction, some usage tips and tricks are linked on the main screen (see \'?\' icon).
+	<string name="tip_initial_t">OsmAnd is a navigation application with many features. 
+		\n\nAs a basic introduction, some usage tips and tricks are linked via \'Menu\' → \'Tips\' from the map screen.
 	</string>
 	<string name="next_button">Next</string>
 	<string name="previous_button">Previous</string>
@@ -1108,7 +1158,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="send_location_email_pattern">To see location follow the web browser link %1$s or android intent link %2$s</string>
 	<string name="send_location">Send location</string>
 	<string name="context_menu_item_share_location">Share location</string>
-	<string name="add_waypoint_dialog_added">Waypoint \'\'{0}\'\' was successfully added</string>
+	<string name="add_waypoint_dialog_added">GPX Waypoint \'\'{0}\'\' was successfully added</string>
 	<string name="add_waypoint_dialog_title">Add waypoint to recorded GPX track</string>
 	<string name="context_menu_item_add_waypoint">Add GPX waypoint</string>
 	<string name="amenity_type_administrative">Administrative</string>
@@ -1185,8 +1235,8 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="continuous_rendering_descr">Display continuous rendering instead of image-at-once</string>
 	<string name="rendering_exception">Error occurred while rendering selected area</string>
 	<string name="show_point_options">Use location …</string>
-	<string name="renderer_load_sucess">Renderer sucessfully loaded</string>
-	<string name="renderer_load_exception">Exception occured: renderer was not loaded</string>
+	<string name="renderer_load_sucess">Renderer successfully loaded</string>
+	<string name="renderer_load_exception">Exception occurred: renderer was not loaded</string>
 	<string name="renderers">Vector renderer</string>
 	<string name="renderers_descr">Choose rendering appearance</string>
 	<string name="poi_context_menu_website">Show POI website</string>
@@ -1219,9 +1269,9 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="rotate_map_to_bearing_descr">Select map screen alignment</string>
 	<string name="rotate_map_to_bearing">Map orientation</string>
 	<string name="show_route">Route details</string>
-	<string name="fav_imported_sucessfully">Favorites succesfully imported</string>
+	<string name="fav_imported_sucessfully">Favorites successfully imported</string>
 	<string name="fav_file_to_load_not_found">GPX file containing favorites is not found at {0}</string>
-	<string name="fav_saved_sucessfully">Favorites succesfully saved to {0}</string>
+	<string name="fav_saved_sucessfully">Favorites successfully saved to {0}</string>
 	<string name="no_fav_to_save">No favorite points to save</string>
 	<string name="import_fav">Import</string>
 	<string name="export_fav">Export</string>
@@ -1239,7 +1289,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="layer_transport">Transportation stops</string>
 	<string name="layer_poi">POI&#8230;</string>
 	<string name="layer_map">Map source&#8230;</string>
-	<string name="menu_layers">Define view</string>
+	<string name="menu_layers">Map layers</string>
 	<string name="context_menu_item_search_poi">Search POI</string>
 	<string name="use_trackball_descr">Use trackball to move map</string>
 	<string name="use_trackball">Use trackball</string>
@@ -1264,7 +1314,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="search_poi_filter">Filter</string>
 	<string name="menu_mute_off">Sound is on</string>
 	<string name="menu_mute_on">Sound is off</string>
-	<string name="voice_provider_descr">Select voice guidance for navigation</string>
+	<string name="voice_provider_descr">Select voice guidance for navigation (language codes see ISO 639-1)</string>
 	<string name="voice_provider">Voice guidance</string>
 	<string name="voice_data_initializing">Initializing voice data&#8230;</string>
 	<string name="voice_data_not_supported">Unsupported version of voice data</string>
@@ -1342,7 +1392,7 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="download_question_exist">Offline data for {0} already exists ({1}). Do you want to update it ({2}) ?</string>
 	<string name="address">Address</string>
 	<string name="download_index_success">Download successful</string>
-	<string name="error_io_error">I/O error occured</string>
+	<string name="error_io_error">I/O error occurred</string>
 	<string name="downloading_file_new">Downloading …</string>
 	<string name="downloading">Downloading&#8230;</string>
 	<string name="downloading_list_indexes">Downloading list of available regions&#8230;</string>
@@ -1482,10 +1532,10 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="favourites_context_menu_edit">Edit favorite</string>
 	<string name="favourites_context_menu_delete">Delete favorite</string>
 	<string name="favourites_remove_dialog_msg">Remove favorite point \'%s\'?</string>
-	<string name="favourites_remove_dialog_success">Favorite point {0} was succesfully deleted.</string>
+	<string name="favourites_remove_dialog_success">Favorite point {0} was successfully deleted.</string>
 	<string name="osb_add_dialog_title">Enter bug text</string>
 	<string name="osb_add_dialog_success">Bug successfully created</string>
-	<string name="osb_add_dialog_error">Exception occured: bug was not created</string>
+	<string name="osb_add_dialog_error">Exception occurred: bug was not created</string>
 	<string name="osb_author_dialog_password">OSM password (optional)</string>
 	<string name="osb_comment_menu_item">Add comment</string>
 	<string name="osb_comment_dialog_message">Message</string>
@@ -1493,12 +1543,12 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="osb_comment_dialog_title">Adding comment to bug</string>
 	<string name="osb_comment_dialog_add_button">Add comment</string>
 	<string name="osb_comment_dialog_success">Comment was successfully added</string>
-	<string name="osb_comment_dialog_error">Exception occured: comment was not added</string>
+	<string name="osb_comment_dialog_error">Exception occurred: comment was not added</string>
 	<string name="osb_close_menu_item">Close bug</string>
 	<string name="osb_close_dialog_title">Closing bug</string>
 	<string name="osb_close_dialog_close_button">Close bug</string>
 	<string name="osb_close_dialog_success">Bug was successfully closed</string>
-	<string name="osb_close_dialog_error">Exception occured: bug was not closed</string>
+	<string name="osb_close_dialog_error">Exception occurred: bug was not closed</string>
 	<string name="poi_edit_title">Edit POI</string>
 	<string name="poi_create_title">Create POI</string>
 	<string name="poi_error_poi_not_found">Node cannot be found or amenity is not a single node</string>
@@ -1509,8 +1559,8 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="poi_action_add">add</string>
 	<string name="poi_action_change">change</string>
 	<string name="poi_action_succeded_template">Action {0} completed successfully.</string>
-	<string name="poi_error_unexpected_template">Unexpected error occured while performing action {0}.</string>
-	<string name="poi_error_io_error_template">I/O error occured while performing action {0}.</string>
+	<string name="poi_error_unexpected_template">Unexpected error occurred while performing action {0}.</string>
+	<string name="poi_error_io_error_template">I/O error occurred while performing action {0}.</string>
 	<string name="poi_error_info_not_loaded">Info about node was not loaded</string>
 	<string name="poi_dialog_name">Name</string>
 	<string name="poi_dialog_opening_hours">Open</string>
