@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>%1$d files left</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Засталося %1$d файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%1$d of %2$d item(s) successfully activated.</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T084355Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T082051Z">
         <seg>%1$d з %2$d рэчаў пасьпяхова заладаваныя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>* Tap to mark a point.\n * Press and hold on the map to delete previous point.\n * Press and hold on point to view and attach description.\n * Click on measurement widget to see more actions.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>* Націсніце , каб адзначыць кропку.\n * Націсьніце і ўтрымлівайце на мапе, каб выдаліць папярэднюю кропку.\n * Націсьніце і ўтрымлівайце на кропцы, каб паглядзець і прыкласьці апісаньне.\n * Націсніце на віджэце вымярэньня, каб убачыць больш дзеяньняў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аб праграме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessibility</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T064746Z">
@@ -98,6 +122,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T061505Z">
         <seg>Рэжым даступнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessibility mode : please select destination first</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэжым даступнасці : Калі ласка, спачатку вылучыце прызначэнне</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Announce GPX waypoints</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Агалошваць маршрутныя кропкі GPX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Announce alarms…</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T121147Z" creationid="alex" creationdate="20130718T121018Z">
@@ -270,10 +310,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Announce street names (TTS)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Агалошваць назвы вуліц (TTS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Announce traffic warnings</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T121426Z" creationid="alex" creationdate="20130718T121426Z">
         <seg>Анансаваць заўвагі руху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Announce…</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Агалошваць…</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arrival time</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Час прыбыцьця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Asia</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071458Z">
@@ -314,6 +378,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T065508Z">
         <seg>Асынхроннае рэдагаваньне OSM POI:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Audio/Video data</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўдыё/відэа зьвесткі</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +450,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T074558Z">
         <seg>Аўтаматычнае цэнтраваньне толькі падчас навігацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available %1$d files to download</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Даступна %1$d файлаў для сьцягваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,10 +558,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backup OSM changes failed</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Збой рэзервовага капіяванья файлу зьмяненьняў OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Backup as OSM change</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэзервовае капіяваньне пры зьмяненьні OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Base world map (covering the whole world at small zooms) is missing. Please consider downloading World_basemap_x.obf for a complete environment.</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T083746Z">
         <seg>Няма асноўнай мапы сьвету (якая пакрывае увесь сьвет на малых маштабах). Каб мець поўнае асяродзьдзе трэба зладаваць World_basemap_x.obf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Begin a new subtrack</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пачаць новы падтрэк</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Canada</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Канада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115017Z">
@@ -566,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change order</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмяніць парадак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change units of length and speed</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130709T093651Z" creationid="alex" creationdate="20130709T093651Z">
@@ -590,10 +710,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes in 1.1.2: \n\t* Audio/video plugin enhancement (photos with EXIF information) \n\t* Usability fixed and restructured Contour lines plugin \n\t* Hillshade packages for Contour lines plugin \n\t* Bug fixes (suboptimal routing)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмены ў 1.1.2: \n\t* Паляпшэньне аўдыё/відэа убудовы (фота з інфармацыяй EXIF) \n\t* Вапраўлена зручнасьць і рэструкрурызаваная убудова Ізалініі вышынь \n\t* Пакет ценяў рэльефу для убудовы Ізалініі вышынь \n\t* Выпраўленне памылак (неаптымальнай маршрутызацыі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes in 1.1.4: \n\t* UI redesign \n\t* Bug fixes</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмены ў 1.1.4: \n\t* рэдызайн інтэрфейсу \n\t* Выпраўленыя памылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes in 1.3: \n\t* Reimplement Tablets and Large screen support \n\t* Holo Theme (customization) \n\t* Additional settings for stabilizing compass \n\t* Top left button on the map screen replaces Menu button</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмены ў версіі 1.3: \n\t* Перапісана падтрымка планшэтаў і вялікіх эканаў \n\t* Тэма Holo (налады) \n\t* Дадатковыя налады для стабілізацыі компасу \n\t* Верхняя левая кнопка на экране мапы замяняе кнопку Меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes in 1.4: \n\t* Order waypoints in optimal way to visit all (Travelling salesman, door-to-door) \n\t* Search street by name (in neighborhood) \n\t* Planning mode plugin (load/edit/save GPX tracks) \n\t* New download screen (download in background) \n\t* Support GPX subfolders (organize your GPX tracks) \n\t* Delete SRTM files \n\t* Support OSM Notes</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зміни в 1.4: \n\t* Магчымасьць аптымальнага ўпорадкаваньня промежных кропак маршруту (задача каміваяжора, сартаваньне па адлегласьці) \n\t* Пошук вуліцы па назве (побач) \n\t* Убудова планаваньня маршрутаў (сьцягваньне/редагаваньне/захавеньне GPX файлаў) \n\t* Новы экран сьцягваньня \n\t* Падтрымка ўкладзеных тэчак для GPX файлаў (упарадкуйце вашыя GPX файлы) \n\t* Выдалены файлы SRTM \n\t* Падтрымка OSM нататак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes in 1.5: \n\t* Voice warnings about speed limits and cameras \n\t* High density map icons \n\t* Lots of UI changes \n\t* Bugfixes in distance display, GPX analyzer, waypoint handling, planning widget, OSM uploading, https handling</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T080958Z" creationid="alex" creationdate="20130718T080958Z">
         <seg>Зьмены ў 1.5: \n\t* Папярэджаньні голасам пра абмежаваньні хуткасьці й камэры \n\t* Значкі лепшай якасьці на мапе \n\t* Шмат зьменаў інтэрфэйсу \n\t* Выпраўленьні хібаў у паказе адлегласьці, аналізе GPX, апрацоўцы кропак шляху, плянаваньні, запампоўцы ў OSM, апрацоўцы https</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes in 1.5: \n\t* Voice warnings about speed limits and cameras \n\t* More voice prompt capabilities (street names announced) \n\t* High density map icons \n\t* Lots of UI changes \n\t* Bugfixes in distance display, GPX analyzer, waypoint handling, planning widget, OSM uploading, https handling</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмены ў 1.5: \n\t* Галасавыя папярэджваньні аб абмежаваньні хуткасьці і камерах \n\t* Больш галасавых падказкак (агалошэньне назваў вуліц) \n\t* Значкі для мапаў для экранаў высокае шчыльнасьці \n\t* Шмат зьмен інтэрфейса \n\t* Выпраўленьні памылык паказу адлегласці, аналізу GPX, апрацоўкі маршрутных кропак, віджэта планаваньня маршрута, загрузкі дадзеных ў OSM, працы з https</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes in 1.6: \n\t* Define/edit online tile source (specify expiration time)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмены ў 1.6: \n\t* Вызначеньне/зьмена анлайн-крыніц квадратаў мапф (пазначце тэрмін дзеяньня)</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose existing...</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Абярыце існуючую...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose intersecting street</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T121106Z">
@@ -710,10 +886,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clear all points</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выдаліць ўсе кропкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clear destination</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T080401Z" creationid="alex" creationdate="20130718T080401Z">
         <seg>Сьцерці месца прызначэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear intermediate points</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ачысціць прамежкавыя кропкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configure how to record trips and enable sleep mode</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Наладжваньні запісу трэкаў і фонавага рэжыму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configure map display</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T072840Z">
@@ -810,6 +1010,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130704T134745Z" creationid="alex" creationdate="20130704T134745Z">
         <seg>Налады адлюстраваньня мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configure to announce street names, traffic warnings (forced stops, speed bumps), speed camera warnings, speed limits</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Агалошваць назвы вуліц, дарожныя перасьцярогі (вымушаныя прыпынкі, ляжачыя паліцэйскія ), перасьцярогі аб камерах хуткасьці, абмежаваньні хуткасьці</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +1090,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T121114Z">
         <seg>Гэтае месца…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Currently WiFi is not connected. Do you want to continue downloading with current internet connection?</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зараз WiFi не падлучаны. Хочаце працягнуць сьцягваньне з бягучым падключэньнем да інтэрнэту?</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Define/Edit…</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вызначыць/зьмянiць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T084539Z">
@@ -994,6 +1218,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T065446Z">
         <seg>Выдаліць зьмены POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete Point</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выдаліць кропку</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not show again</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Больш не паказваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not use</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130702T140312Z" creationid="alex" creationdate="20130702T140312Z">
@@ -1198,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloadable: %1$s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Можна сьцягнуць: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloaded</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130709T111211Z" creationid="alex" creationdate="20130709T111211Z">
@@ -1238,6 +1486,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Driving Region</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Рэгіён для кіраваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropbox plugin</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Убудова Dropbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropbox plugin allows to synchronize tracks and audio/video notes with your dropbox account.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Убудова Dropbox дазваляе сынхранізаваць трэкі і аўдыё/відэа натакi з вашым рахункам Dropbox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit POI</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130704T134158Z" creationid="alex" creationdate="20130704T134158Z">
@@ -1266,6 +1538,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T090150Z" creationid="alex" creationdate="20130718T090150Z">
         <seg>Адукацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elliptic mercator</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Эліптычны меркатар</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Europe &amp; Asia</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Эўропа і Азія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Europe - France</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071432Z">
@@ -1346,6 +1634,30 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T104324Z">
         <seg>Выхад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expire (minutes)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Тэрмін дзеяньня (у хвілінах)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expire (minutes): %1$s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Термін дзеяньня (у хвілінах): %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FPS debug info</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адладачная інфармацыя FPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,10 +1814,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finish editing</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Скончыць рэдагаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fixed</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081526Z">
         <seg>Фіксаваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fixes in 1.2.1: \n\t*Fix Geo Intent (Foursquare, c:geo) \n\t*Fix screen tremble during navigation \n\t*Other small fixes \n\nChanges in 1.2: \n\t* Bug fixes (tuned routing, search, AV recording, voice prompts, some display improvements) \n\t* Easier hillshade overlay configuration (requires Contour Lines plugin) \n\t* Now accepts maps.google.com location links \n\t* New widget (GPS info) \n\t* Added multi-window support for recent Samsung devices \n\t* Kalman filter for compass \n\t* Pebble watch support</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьмены ў 1.2.1 \n\t*Выпраўлены Геа сэрвісы (Foursquare, c:geo) \n\t*Выпраўлена дрыжаньне выявы пад час навігаціі \n\t*Інші незначні виправлення \n\nЗьмены ў 1.2: \n\t* Выпраўлены памылкі (маршруцізаціі, пошуку, запісу відэа/голасу, аудыё-падказак, некторыя паляпшэньні адлюстраваньня) \n\t* Спрошчанае наланаладжваньне слою рэльефу (патрэбная убудова Ізаліній вышынь) \n\t* Магчыма выкарыстоўваць спасылкі з maps.google.com \n\t* Новы віджэт (GPS інфа) \n\t* Дададзена падтрымка шматаконнага інтэрфейсу для апошніх мадэляў Samsung \n\t* Фільтр Калмана для компаса \n\t* Падтрымка гадзіньніка Pebble</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1998,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GPX file name</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Імя GPX-файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GPX file successfully saved to {0}</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>GPX файл паспяхова захаваны ў {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GPX recording</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T082326Z" creationid="alex" creationdate="20130718T082326Z">
@@ -1754,6 +2098,30 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T082806Z" creationid="alex" creationdate="20130718T082806Z">
         <seg>Схаваць палігоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hillshade</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Ценi рэльефу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hillshade layer</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Слой ценяў рэльефу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hillshade overlays</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Слой ценяў рэльефу</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,10 +2230,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install version</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Усталяваньне версіі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Intermediate waypoints resorted to optimize their order on the way to the destination.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Прамежкавыя кропкі перасартыраваныя ў парадку шляху да месца прызначэньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Intersecting street</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T121046Z">
         <seg>Скрыжаваньне вуліц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japan</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Японія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep intermediate points</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Захаваць прамежныя кропкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -2126,10 +2526,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map Styles</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131008T073032Z" creationid="alex" creationdate="20131008T073032Z">
+        <seg>Стыль мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Map font size</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T082521Z" creationid="alex" creationdate="20130718T082521Z">
         <seg>Памер шрыфту мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map layers</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вызначыць выгляд</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2606,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Max zoom</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Макс.маштаб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum zoom: %1$s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Максімальны маштаб: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Media/music audio</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T123824Z" creationid="alex" creationdate="20130625T123824Z">
@@ -2210,6 +2642,22 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122956Z" creationid="alex" creationdate="20130625T122956Z">
         <seg>Мілі/ярды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Min zoom</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мін.маштаб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimum zoom: %1$s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Мінімальны маштаб: %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -2406,9 +2854,25 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OSM change file successfully generated %1$s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Файл зьмяненьняў OSM пасьпяхова зтвораны ў %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OSM editing</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T124613Z" creationid="alex" creationdate="20130625T124613Z">
+        <seg>Рэдагаваньне OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OSM modifications</seg>
+      </tuv>
+      <tuv lang="be">
         <seg>Рэдагаваньне OSM</seg>
       </tuv>
     </tu>
@@ -2542,6 +3006,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open a pre-recorded GPX route to follow?</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адчыніць ранейзапісаны GPX маршрут для навiгацыi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open existing GPX</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Адчыніць існы GPX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenMaps EU</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>OpenMaps Эўропа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OsmAnd Maps &amp; Navigation</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130704T133128Z" creationid="alex" creationdate="20130704T133128Z">
@@ -2570,6 +3058,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T131332Z" creationid="alex" creationdate="20130709T111710Z">
         <seg>Іншае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other actions</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Iншыя дзеяньні</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Photo %1$s of %2$s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Фота %1$ з %2$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Places</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T082749Z">
@@ -2702,10 +3206,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please specify OSM user and password in Settings</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі ласка , пазначце карыстальніка OSM і ягоны пароль у наладах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please specify OSM user name and password to upload GPX files.</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T061003Z">
         <seg>Калі ласка, пазначце імя й пароль карыстальніка OSM каб заладоўваць файлы GPX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please wait until current task is finished</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Калі ласка, пачакайце, пакуль бягучая задача не будзе завершаная</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +3242,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T120406Z">
         <seg>Убудовы актывуюць дадатковыя налады й магчымасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Point</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кропка</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,6 +3534,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save \n current GPX track</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Захаваць \n бягучы GPX трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save as GPX</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Захаваць як GPX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save directions</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081903Z">
@@ -3086,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search street in neighborhood cities</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пошук вуліцы ў суседніх гарадах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searching</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130705T060421Z" creationid="alex" creationdate="20130705T060421Z">
@@ -3142,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Driving Region : US, Europe, UK, Asia and Others</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Абярыце рэгіён для кіраваньня : ЗША, Еўропа, Вялікабрытанія, Азія і іншыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a user profile. Each profile contains specific settings, which can be customized below.</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T072726Z">
@@ -3186,6 +3746,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122706Z" creationid="alex" creationdate="20130625T122706Z">
         <seg>Абраць мову інтэрфэйсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select favorite</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Абярыце з упадабаных</seg>
       </tuv>
     </tu>
     <tu>
@@ -3314,6 +3882,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T090026Z" creationid="alex" creationdate="20130718T090026Z">
         <seg>Крама</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Паказаць</seg>
       </tuv>
     </tu>
     <tu>
@@ -3478,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show settings to enable tracking and navigation in sleep (screen off) mode via periodically waking up the GPS device.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Налады ўключэньня запісу трэкаў і навігацыі ў фоне (экран выключаны) шляхам перыядычнага абудджэньня прылады GPS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show some vector map detail (roads etc.) at lower zooms already</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T082622Z">
@@ -3530,6 +4114,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130702T140942Z" creationid="alex" creationdate="20130702T140848Z">
         <seg>Прывязвацца за дарогі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort (door-to-door)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Упарадкаваць па адлегласьці</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +4214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start OsMoDroid</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Запусьціць OsMoDroid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start animation</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T075631Z">
@@ -3638,6 +4238,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start editing</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пачаць рэдагаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start navigation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Кіравацца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start simulation</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T080537Z" creationid="alex" creationdate="20130718T080537Z">
@@ -3650,6 +4266,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T081619Z" creationid="alex" creationdate="20130718T081619Z">
         <seg>Паліца статусу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stop OsMoDroid</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Спыніць OsMoDroid</seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thank you for using OsmAnd. For many features of this application you need some regional offline data which you can download via 'Settings' → 'Data Management'. Afterwards you will be able to view maps, locate addresses, look up POIs, and find public transportation.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Дзякуй за карыстаньне OsmAnd. Каб карыстацца ўсімі магчымасьцямі праграмы, вам патрэбныя некаторыя пазасеціўныя зьвесткі для вашага рэгіёну. Іх можна зладаваць праз 'Налады' → 'Кіраваньне зьвесткамі'. Пасьля гэтага вы зможаце глядзець мапу, шукаць адрасы, бачыць цікавосткі і грамадзкі транспарт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The POI data file '%1$s' is redundant and can be deleted.</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T080857Z">
@@ -3838,10 +4470,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tile data: %1$s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Зьвесткі квадрата: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tile data: %1$s \nMinimum zoom : %2$d\nMaximum zoom : %3$d\nDownloadable : %4$s \nZooms downloaded : %5$s</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T084733Z">
         <seg>Зьвесткі фрагмэнту: %1$s \nМінімальны маштаб : %2$d\nМаксымальны маштаб : %3$d\nDownloadable : %4$s \nZooms downloaded : %5$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tilesource %1$s is successfully saved</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Крыніца квадратаў мапы %1$s пасьпяхова захаваная</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +4506,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T120610Z">
         <seg>Час каб мапа сынхранізавалася з гэтым месцам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tips</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Парады</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UK, India, Australia &amp; Others</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Вялікабрытанія , Індыія , Аўстралія ды іншыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undefined</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081513Z">
@@ -3962,6 +4626,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T122934Z" creationid="alex" creationdate="20130625T122934Z">
         <seg>Адзінкі вымярэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>United States</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>ЗША</seg>
       </tuv>
     </tu>
     <tu>
@@ -4046,6 +4718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Profile</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Профіль карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use compass</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130702T141401Z" creationid="alex" creationdate="20130702T141401Z">
@@ -4074,6 +4754,22 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T114327Z">
         <seg>Гэтае месца...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use magnetic sensor</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выкарыстоўваць магнітны датчык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use magnetic sensor to determine compass value instead of orientation sensor</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Выкарыстоўваць для працы компаса магнітны датчык замест датчыка арыентацыі</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,6 +4870,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Version :</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Версія:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version info, licenses, project members</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Версія, ліцэнзіі, удзельнікі праекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Via:</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T081028Z" creationid="alex" creationdate="20130718T081028Z">
@@ -4262,9 +4974,25 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Voice packs (TTS-synthesized, prefer)</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Галасавыя пакункі (TTS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Voice packs (recorded)</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071554Z">
+        <seg>Галасавыя пакункі (запісаныя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice packs (recorded, limited features)</seg>
+      </tuv>
+      <tuv lang="be">
         <seg>Галасавыя пакункі (запісаныя)</seg>
       </tuv>
     </tu>
@@ -4342,6 +5070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You already have intermediate points set.</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>У вас ужо ёсць набор прамежных кропак.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are about to %1$s %2$s item(s). Continue?</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T084441Z">
@@ -4398,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Zooms downloaded: %1$s</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Сьцягнутыя маштабы: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\nAverage altitude : %1$.0f m\nMinimum altitude : %2$.0f m\nMaximum altitude : %3$.0f m\nAscents : %4$.0f m\nDescents : %5$.0f m</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T084135Z">
@@ -4410,6 +5154,22 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T083946Z">
         <seg>\nСярэдняя хуткасьць : %1$s \nМаксымальная хуткасьць : %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\nTime moving: %1$d:%2$02d:%3$02d</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>\nЧас руху: %1$d:%2$02d:%3$02d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\nTime span: %1$d:%2$02d:%3$02d</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>\nДыяпазон часу: %1$d:%2$02d:%3$02d</seg>
       </tuv>
     </tu>
     <tu>
@@ -4438,10 +5198,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>base world map</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Асноўная мапа сьвету</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>change</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115041Z">
         <seg>зьмяніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>checked</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>адзначана</seg>
       </tuv>
     </tu>
     <tu>
@@ -4466,6 +5242,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T062905Z">
         <seg>усходне-паўднёвы ўсход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>elevation</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>вышыня</seg>
       </tuv>
     </tu>
     <tu>
@@ -4526,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>none</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>нiчога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>north</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T062956Z">
@@ -4570,6 +5362,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063458Z">
         <seg>гадзін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>precision</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>дакладнасьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -4622,6 +5422,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>speed</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>хуткасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>start</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пачаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>time</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>час</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>towards</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063518Z">
@@ -4634,6 +5458,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130709T093411Z" creationid="alex" creationdate="20130709T093411Z">
         <seg>набярыце каб фільтраваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unchecked</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>не адзначана</seg>
       </tuv>
     </tu>
     <tu>
