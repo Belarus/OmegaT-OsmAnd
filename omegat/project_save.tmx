@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete All</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031517Z" creationid="alex" creationdate="20131127T031517Z">
+        <seg>Выдаліць усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete POI</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T115125Z">
@@ -3246,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please, calculate the route first</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031539Z" creationid="alex" creationdate="20131127T031539Z">
+        <seg>Калі ласка, спачатку знайдзіце маршрут</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugins</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130619T120326Z">
@@ -3410,6 +3426,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130709T111156Z" creationid="alex" creationdate="20130709T111156Z">
         <seg>Перачытаць сьпіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember my choice</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031732Z" creationid="alex" creationdate="20131127T031732Z">
+        <seg>Запомніць мой выбар</seg>
       </tuv>
     </tu>
     <tu>
@@ -4114,6 +4138,22 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T063853Z">
         <seg>Бокам (8 сэктараў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simulate using GPX track</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031643Z" creationid="alex" creationdate="20131127T031643Z">
+        <seg>Сымуляцыя з выкарыстаньнем GPX трэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simulate using calculated route</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031613Z" creationid="alex" creationdate="20131127T031613Z">
+        <seg>Сымуляцыя з выкарыстаньнем знойдзенага маршруту</seg>
       </tuv>
     </tu>
     <tu>
@@ -5112,8 +5152,8 @@
       <tuv lang="en">
         <seg>You are going to delete %1$d osm changes. Are you sure?</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20131127T031345Z" creationid="alex" creationdate="20131127T031345Z">
-        <seg>Вы зьбіраецеся выдаліць % 1 $ D змены OSM. Вы ўпэўненыя ?</seg>
+      <tuv lang="be" changeid="alex" changedate="20131127T031514Z" creationid="alex" creationdate="20131127T031345Z">
+        <seg>Вы зьбіраецеся выдаліць %1$d зьменаў OSM. Вы ўпэўненыя ?</seg>
       </tuv>
     </tu>
     <tu>
