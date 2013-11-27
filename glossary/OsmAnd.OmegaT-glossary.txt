@@ -2,3 +2,4 @@ POI	цікавостка
 track	трэк
 route	шлях
 online	сеціўны
+GPX	GPX
