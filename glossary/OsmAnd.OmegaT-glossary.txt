@@ -3,3 +3,4 @@ track	трэк
 route	шлях
 online	сеціўны
 GPX	GPX
+GPS	GPS
