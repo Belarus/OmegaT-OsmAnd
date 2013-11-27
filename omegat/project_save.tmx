@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032543Z" creationid="alex" creationdate="20131127T032543Z">
+        <seg>Прымяніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to clear your destination point (and waypoints)?</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T081500Z" creationid="alex" creationdate="20130718T081500Z">
@@ -1474,6 +1482,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130621T081509Z">
         <seg>Зладаваць рэгіёны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download successful</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032507Z" creationid="alex" creationdate="20131127T032507Z">
+        <seg>Ладаваньне было пасьпяховае</seg>
       </tuv>
     </tu>
     <tu>
@@ -3166,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>POI</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032521Z" creationid="alex" creationdate="20131127T032521Z">
+        <seg>Цікавосткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>POI (Point of interest) search</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T085311Z" creationid="alex" creationdate="20130625T115839Z">
@@ -4818,6 +4842,14 @@
       </tuv>
       <tuv lang="be">
         <seg>ЗША</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Update map</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032532Z" creationid="alex" creationdate="20131127T032532Z">
+        <seg>Абнавіць мапу</seg>
       </tuv>
     </tu>
     <tu>
