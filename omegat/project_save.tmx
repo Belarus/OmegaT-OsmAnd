@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Tag</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032051Z" creationid="alex" creationdate="20131127T032051Z">
+        <seg>Дадаць тэг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add as waypoint</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130704T133041Z" creationid="alex" creationdate="20130704T133036Z">
@@ -382,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Audio notes</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032021Z" creationid="alex" creationdate="20131127T032021Z">
+        <seg>Аўдыё нататкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Audio/Video data</seg>
       </tuv>
       <tuv lang="be">
@@ -394,6 +410,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130702T142344Z" creationid="alex" creationdate="20130702T142344Z">
         <seg>Аўдыё/відэа нататкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Audio/video settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031926Z" creationid="alex" creationdate="20131127T031926Z">
+        <seg>Налады аўдыё/відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error occurred while recording</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031931Z" creationid="alex" creationdate="20131127T031931Z">
+        <seg>Адбылася памылка падчас запісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Europe</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071426Z">
@@ -1994,6 +2026,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T082311Z" creationid="alex" creationdate="20130718T082311Z">
         <seg>Зьвесткі GPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GPS status</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031756Z" creationid="alex" creationdate="20131127T031756Z">
+        <seg>Стан GPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Play</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032003Z" creationid="alex" creationdate="20131127T032003Z">
+        <seg>Граць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enable 'Log track to GPX file' settings.</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T120202Z" creationid="alex" creationdate="20130625T120202Z">
@@ -3390,10 +3438,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Record audio</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031859Z" creationid="alex" creationdate="20131127T031859Z">
+        <seg>Запіс аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Record video</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031857Z" creationid="alex" creationdate="20131127T031857Z">
+        <seg>Запіс відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T084609Z">
         <seg>Абнавіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refresh channels</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031842Z" creationid="alex" creationdate="20131127T031842Z">
+        <seg>Абнавіць каналы</seg>
       </tuv>
     </tu>
     <tu>
@@ -4670,6 +4742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031816Z" creationid="alex" creationdate="20131127T031816Z">
+        <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undefined</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T081513Z">
@@ -4778,6 +4858,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Профіль карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use camera app</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031920Z" creationid="alex" creationdate="20131127T031920Z">
+        <seg>Выкарыстоўваць праграму камэры</seg>
       </tuv>
     </tu>
     <tu>
@@ -4946,6 +5034,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T081028Z" creationid="alex" creationdate="20130718T081028Z">
         <seg>Праз:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video output format</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031938Z" creationid="alex" creationdate="20131127T031938Z">
+        <seg>Фармат вываду відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -5262,6 +5358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031800Z" creationid="alex" creationdate="20131127T031800Z">
+        <seg>і</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>base world map</seg>
       </tuv>
       <tuv lang="be">
@@ -5430,10 +5534,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T031803Z" creationid="alex" creationdate="20131127T031803Z">
+        <seg>або</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>precision</seg>
       </tuv>
       <tuv lang="be">
         <seg>дакладнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>recording</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032005Z" creationid="alex" creationdate="20131127T032005Z">
+        <seg>запіс</seg>
       </tuv>
     </tu>
     <tu>
@@ -5498,6 +5618,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Пачаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stop</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032007Z" creationid="alex" creationdate="20131127T032007Z">
+        <seg>спыніць</seg>
       </tuv>
     </tu>
     <tu>
