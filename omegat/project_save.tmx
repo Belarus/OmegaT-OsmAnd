@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Address</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032334Z" creationid="alex" creationdate="20131127T032334Z">
+        <seg>Адрас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Address search</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T085611Z" creationid="alex" creationdate="20130718T085611Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T090156Z" creationid="alex" creationdate="20130718T090156Z">
         <seg>Адміністрацыйны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Advanced Mode…</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032059Z" creationid="alex" creationdate="20131127T032059Z">
+        <seg>Пашыраны рэжым...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1626,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130718T123000Z" creationid="alex" creationdate="20130718T122921Z">
         <seg>Дазвольце ўбудову сэрвісаў хронікі каб запісваць каардынаты (запіс GPX, сеткавы трэкінг)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable\n sleep mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032225Z" creationid="alex" creationdate="20131127T032151Z">
+        <seg>Уключыць\n рэжым сну</seg>
       </tuv>
     </tu>
     <tu>
@@ -3438,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Record GPX</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032116Z" creationid="alex" creationdate="20131127T032116Z">
+        <seg>Запіс GPX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Record audio</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20131127T031859Z" creationid="alex" creationdate="20131127T031859Z">
@@ -4438,6 +4470,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stop\n GPX rec.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032154Z" creationid="alex" creationdate="20131127T032133Z">
+        <seg>Спыніць\n запіс GPX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stop\n sleep mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032220Z" creationid="alex" creationdate="20131127T032220Z">
+        <seg>Спыніць\n рэжым сну</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Storage directory</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20130625T120320Z" creationid="alex" creationdate="20130625T120320Z">
@@ -5202,6 +5250,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20120426T071701Z">
         <seg>Сусьветная Вікіпэдыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Worldwide Wikipedia POIs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20131127T032313Z" creationid="alex" creationdate="20131127T032313Z">
+        <seg>Цікавосткі сусьветнай Вікіпэдыі</seg>
       </tuv>
     </tu>
     <tu>
