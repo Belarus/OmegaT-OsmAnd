@@ -9,6 +9,26 @@
          3. All your modified/created strings are in the top of the file (to make easier find what\'s translated).
     PLEASE: Have a look at http://code.google.com/p/osmand/wiki/UIConsistency, it may really improve your and our work  :-)  Thx - Hardy
     -->
+    <string name="guidance_preferences_descr">Navigation preferences</string>
+    <string name="routing_preferences_descr">Routing preferences</string>
+    <string name="speech_rate_descr">Specify speech rate for TTS</string>
+    <string name="speech_rate">Speech Rate</string>
+    <string name="tip_recent_changes_1_7_t">Changes in 1.7:
+	\n\t* Completely updated routing (fast and precise)
+	\n\t* Active simulation in tunnels
+    </string>
+    <string name="complex_route_calculation_failed">Fast route calculation failed (%s), fallback to slow calculation.</string>
+    <string name="disable_complex_routing_descr">Disable 2-phase routing for car navigation</string>
+    <string name="disable_complex_routing">Disable complex routing</string>
+    <string name="amenity_type_seamark">Seamark</string>
+    <string name="app_modes_choose_descr">Choose use profiles visible in application</string>
+    <string name="app_modes_choose">Application Profiles</string>
+	<string name="map_widget_appearance">Remaining elements:</string>
+	<string name="map_widget_map_rendering">Map rendering:</string>
+    <string name="app_mode_hiking">Hiking</string>
+    <string name="app_mode_motorcycle">Motorcycle</string>
+    <string name="app_mode_boat">Boat</string>
+    <string name="app_mode_aircraft">Aircraft</string>
     <string name="tip_faq_t">Please visit https://code.google.com/p/osmand/wiki/FAQ to see frequently asked questions.</string>
     <string name="tip_faq">Frequently Asked Questions</string>
     <string name="local_osm_changes_delete_all_confirm">You are going to delete %1$d osm changes. Are you sure?</string>
@@ -20,8 +40,7 @@
     <string name="gps_status_eclipsim">GPS status</string>
     <string name="default_and">and</string>
     <string name="default_or">or</string>
-	<string name="route_is_too_long">The route is possibly too long to be calculated by the OsmAnd offline router. 
-        	On average offline routing is possible between points up to 200km apart. Please add one or more intermediate waypoints to calculate the route.</string>
+	<string name="route_is_too_long">OsmAnd offline routing may take very long (or sometimes not work) for points more than 200km apart. You may want to add intermediate waypoints for better performance.</string>
 	<string name="auto_zoom_none">No auto zoom</string>
 	<string name="auto_zoom_close">To close-up</string>
 	<string name="auto_zoom_far">To mid-range</string>
@@ -77,6 +96,8 @@
 	<string name="osmodroid_mode_on">Stop OsMoDroid</string>    
     <string name="osmodroid_mode_off">Start OsMoDroid</string>
     <string name="osmodroid_refresh">Refresh channels</string>
+    <string name="osmodroid_seek">Seek object</string>
+    <string name="osmodroid_unseek">Unseek object</string>
     <string name="announce_gpx_waypoints">Announce GPX waypoints</string>
     <string name="speak_title">Announce&#8230;</string>
 	<string name="speak_descr">Configure to announce street names, traffic warnings (forced stops, speed bumps), speed camera warnings, speed limits</string>
@@ -230,7 +251,7 @@
     <string name="local_indexes_cat_av">Audio/Video data</string>
     <string name="stop_routing_confirm">Are you sure you want to stop the navigation?</string>
     <string name="clear_dest_confirm">Are you sure you want to clear your destination point (and waypoints)?</string>
-    <string name="precise_routing_mode_descr">Enable precise routing to calculate precise routes without glitches. It is very limited by distance and doesn\'t use native library.</string>
+    <string name="precise_routing_mode_descr">Enable to calculate precise routes without glitches. Still distance-limited and slow.</string>
     <string name="precise_routing_mode">Precise routing (alpha)</string>
     <string name="recording_context_menu_show">Show</string>
     <string name="recording_photo_description">Photo %1$s of %2$s</string>
@@ -613,7 +634,6 @@ Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, A
 	<string name="avoid_in_routing_descr">Avoid toll roads, unpaved, ferries</string>
 	<string name="map_widget_fluorescent">Fluorescent routes</string>
 	<string name="map_widget_show_ruler">Ruler</string>
-	<string name="map_widget_appearance">Miscellaneous:</string>
 	<string name="map_widget_view_direction">Viewing direction</string>
 	<string name="map_widget_transparent">Transparent skin</string>
 	<string name="monitoring_mode_off">Record GPX</string>
